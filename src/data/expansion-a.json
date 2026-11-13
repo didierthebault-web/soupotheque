@@ -1,0 +1,1280 @@
+[
+  {
+    "originalName": "Soupe paysanne aux légumes",
+    "country": "France",
+    "region": "Cuisine familiale, sans attribution régionale exclusive",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 20,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétalien",
+      "Végétarien"
+    ],
+    "tags": [
+      "potager",
+      "rustique",
+      "chou"
+    ],
+    "tips": [
+      "Goûter avant de saler ; ajuster le liquide à la consistance souhaitée."
+    ],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Végétalienne avec un bouillon végétal ; celui-ci peut contenir du céleri ou d’autres allergènes.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Version végétale adaptée de la base documentée, et non transcription de la recette à la Morteau.",
+      "Recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "soupe-paysanne-legumes",
+    "title": "Soupe paysanne aux légumes",
+    "description": "Une soupe rustique de chou, poireau et légumes racines, à garder en morceaux.",
+    "history": "Le terme paysan désigne ici une préparation domestique de légumes ; il ne correspond pas à une recette française unique.",
+    "mainIngredient": "Légumes",
+    "ingredients": [
+      {
+        "name": "Chou vert",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Blanc de poireau",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Carotte",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 300,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1200,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 20,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Nettoyer",
+        "text": "Laver les légumes ; ouvrir les poireaux pour retirer la terre. Peler carottes et pommes de terre."
+      },
+      {
+        "title": "Tailler",
+        "text": "Couper les légumes racines en petits dés et le chou en lanières. Émincer les poireaux."
+      },
+      {
+        "title": "Faire suer",
+        "text": "Chauffer l’huile dans une cocotte. Attendrir doucement poireaux et carottes pendant 5 minutes."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Ajouter bouillon, pommes de terre et chou. Cuire à petits bouillons 30 minutes, jusqu’à tendreté."
+      },
+      {
+        "title": "Servir",
+        "text": "Rectifier l’assaisonnement. Répartir légumes et bouillon dans quatre assiettes sans mixer."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laurent Mariotte — Ma soupe paysanne",
+        "url": "https://www.laurentmariotte.com/ma-soupe-paysanne/",
+        "scope": "Découpe et légumes ; adaptation sans saucisse, avec bouillon végétal."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Soupe paysanne aux légumes",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Potage Parmentier",
+    "country": "France",
+    "region": "Cuisine familiale, sans attribution régionale exclusive",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 20,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Goûter avant de saler ; ajuster le liquide à la consistance souhaitée."
+    ],
+    "variants": [
+      {
+        "text": "Alain Ducasse emploie un bouillon de poule et une garniture de pain de mie.",
+        "source": 1
+      }
+    ],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Version végétarienne à l’eau. Des croûtons facultatifs ajouteraient du blé.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "potage-parmentier",
+    "title": "Potage Parmentier",
+    "description": "Pommes de terre et blancs de poireaux, mixés et adoucis de crème.",
+    "history": "Le répertoire classique français nomme Parmentier ce potage lié par la pomme de terre. La technique est enseignée en formation culinaire.",
+    "mainIngredient": "Pomme de terre",
+    "ingredients": [
+      {
+        "name": "Pomme de terre farineuse",
+        "quantity": 500,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Blanc de poireau",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Beurre",
+        "quantity": 25,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 100,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Cerfeuil",
+        "quantity": 5,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Fendre puis rincer les poireaux. Peler les pommes de terre et les couper en morceaux réguliers."
+      },
+      {
+        "title": "Étuver",
+        "text": "Fondre le beurre. Attendrir les poireaux émincés 5 minutes à feu doux, sans coloration."
+      },
+      {
+        "title": "Cuire",
+        "text": "Ajouter pommes de terre et eau. Assaisonner légèrement et cuire 25 minutes à frémissement."
+      },
+      {
+        "title": "Mixer",
+        "text": "Quand les morceaux s’écrasent facilement, retirer du feu et mixer brièvement pour ne pas rendre la pomme de terre élastique."
+      },
+      {
+        "title": "Finir",
+        "text": "Incorporer la crème. Réchauffer doucement, vérifier la consistance et parsemer de cerfeuil."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Académie d’Aix-Marseille — Mémo cuisine, potage Parmentier",
+        "url": "https://www.hotellerie-restauration.ac-versailles.fr/IMG/pdf/5_Memp_TP-_Aix-Marseille.pdf",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      },
+      {
+        "title": "Alain Ducasse — Potage parmentier",
+        "url": "https://www.academiedugout.fr/recettes/potage-parmentier_864_2",
+        "scope": "Ingrédients visibles ; fiche comportant aussi des parties réservées aux abonnés."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Potage Parmentier",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Soupe au chou",
+    "country": "France",
+    "region": "Cuisine familiale, sans attribution régionale exclusive",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 20,
+    "cook": 90,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Goûter avant de saler ; ajuster le liquide à la consistance souhaitée."
+    ],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Contient du porc. Vérifier la composition de la poitrine salée.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Dessalage non inclus : suivre les conseils du charcutier si nécessaire.",
+      "Adaptation non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "soupe-chou",
+    "title": "Soupe au chou",
+    "description": "Une soupe de chou vert au lard, aux carottes et aux pommes de terre.",
+    "history": "Les soupes de chou sont nombreuses en France. Cette version au lard relève d’une cuisine rustique sans attribution régionale exclusive.",
+    "mainIngredient": "Chou",
+    "ingredients": [
+      {
+        "name": "Chou vert",
+        "quantity": 600,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Carotte",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 300,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Poitrine de porc demi-sel",
+        "quantity": 200,
+        "unit": "g",
+        "note": "dessalage éventuel selon le charcutier"
+      },
+      {
+        "name": "Eau",
+        "quantity": 1500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Thym",
+        "quantity": 1,
+        "unit": "brin",
+        "note": ""
+      },
+      {
+        "name": "Laurier",
+        "quantity": 1,
+        "unit": "feuille",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Rincer le chou, retirer le cœur dur et couper les feuilles. Peler puis tailler les autres légumes."
+      },
+      {
+        "title": "Blanchir",
+        "text": "Plonger le chou 3 minutes dans l’eau bouillante, puis égoutter. Rincer la poitrine demi-sel."
+      },
+      {
+        "title": "Démarrer",
+        "text": "Mettre porc, oignon, thym et laurier dans l’eau. Frémir 35 minutes en écumant."
+      },
+      {
+        "title": "Ajouter les légumes",
+        "text": "Ajouter chou et carottes ; cuire 25 minutes. Incorporer les pommes de terre et poursuivre 25 minutes."
+      },
+      {
+        "title": "Terminer",
+        "text": "Vérifier la tendreté. Retirer les aromates, goûter avant de saler et partager en bols."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Patrick Asfaux — Soupe au chou",
+        "url": "https://aftouch-cuisine.com/recette/soupe-au-chou-835.html",
+        "scope": "Version de chef ; adaptation rustique des proportions et du déroulé."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Soupe au chou",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Garbure béarnaise",
+    "country": "France",
+    "region": "Béarn",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 35,
+    "cook": 240,
+    "rest": 720,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Le trempage figure dans le repos ; la cuisson des haricots dépend de leur âge."
+    ],
+    "variants": [
+      {
+        "text": "L’office de tourisme mentionne l’ajout possible de ventrèche ou de jarret demi-sel.",
+        "source": 0
+      }
+    ],
+    "allergens": [],
+    "dietaryNote": "Contient porc et canard. Vérifier les ingrédients du confit et du jambon.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "garbure-bearnaise",
+    "title": "Garbure béarnaise",
+    "description": "Chou, haricots et canard confit composent une soupe généreuse du Béarn.",
+    "history": "Plat paysan béarnais, la garbure varie selon les familles et les saisons. Le haricot-maïs et les viandes de conservation y ont leur place.",
+    "mainIngredient": "Chou",
+    "ingredients": [
+      {
+        "name": "Haricot blanc sec",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Chou vert frisé",
+        "quantity": 600,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 400,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Carotte",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Navet",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Poireau",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousses",
+        "note": ""
+      },
+      {
+        "name": "Talon de jambon avec os",
+        "quantity": 300,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Cuisse de canard confite",
+        "quantity": 4,
+        "unit": "pièces",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 2500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Thym",
+        "quantity": 1,
+        "unit": "brin",
+        "note": ""
+      },
+      {
+        "name": "Laurier",
+        "quantity": 1,
+        "unit": "feuille",
+        "note": ""
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La veille",
+        "text": "Faire tremper les haricots 12 heures au frais dans beaucoup d’eau. Égoutter et rincer."
+      },
+      {
+        "title": "Préparer",
+        "text": "Nettoyer les légumes et les tailler grossièrement. Blanchir le chou 5 minutes dans une autre casserole, puis égoutter."
+      },
+      {
+        "title": "Construire le bouillon",
+        "text": "Frémir jambon, oignon et aromates dans l’eau 1 heure ; écumer. Ajouter les haricots et cuire 1 heure."
+      },
+      {
+        "title": "Ajouter le potager",
+        "text": "Mettre carottes, navets et poireaux ; attendre 30 minutes. Ajouter chou, pommes de terre et ail, puis mijoter 1 heure."
+      },
+      {
+        "title": "Réchauffer le confit",
+        "text": "Ajouter les cuisses dégraissées pour les 20 dernières minutes. Vérifier les haricots ; prolonger si nécessaire. Poivrer et goûter avant de saler."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Office de tourisme Cœur de Béarn — Garbure béarnaise",
+        "url": "https://www.coeurdebearn.com/explorer/gastronomie-bearn/specialites-bearnaises/recette-garbure-bearnaise/",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Garbure béarnaise",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Soupe de cresson",
+    "country": "France",
+    "region": "Cuisine familiale, sans attribution régionale exclusive",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 15,
+    "cook": 25,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Goûter avant de saler ; ajuster le liquide à la consistance souhaitée."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Végétarienne avec bouillon végétal ; vérifier son céleri éventuel. Utiliser du cresson commercial cultivé.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "soupe-cresson",
+    "title": "Soupe de cresson",
+    "description": "Le goût poivré du cresson dans un potage doux à la pomme de terre.",
+    "history": "La soupe de cresson appartient au répertoire des potages français. Cette adaptation privilégie un bouillon végétal.",
+    "mainIngredient": "Cresson",
+    "ingredients": [
+      {
+        "name": "Cresson cultivé",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 350,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 900,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 60,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Trier",
+        "text": "Retirer les grosses tiges du cresson cultivé et le laver soigneusement dans plusieurs eaux."
+      },
+      {
+        "title": "Tailler",
+        "text": "Peler pommes de terre et oignon. Couper les premières en petits morceaux et émincer le second."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Mettre oignon, pommes de terre et bouillon dans une casserole. Frémir 15 minutes, jusqu’à ce qu’ils s’attendrissent."
+      },
+      {
+        "title": "Ajouter le cresson",
+        "text": "Mettre le cresson égoutté et cuire 10 minutes. Réserver une louche de liquide avant de mixer."
+      },
+      {
+        "title": "Finir",
+        "text": "Mixer puis détendre avec le liquide réservé. Ajouter la crème, goûter et servir immédiatement."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Manger Bouger — Soupe de cresson",
+        "url": "https://www.mangerbouger.fr/manger-mieux/la-fabrique-a-menus/recettes/2387-soupe-de-cresson",
+        "scope": "Adaptation végétarienne et cresson ajouté en deuxième partie de cuisson."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Soupe de cresson",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Soupe de poissons provençale",
+    "country": "France",
+    "region": "Provence littorale",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 30,
+    "cook": 50,
+    "rest": 0,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Un tamis fin est indispensable : ne pas servir de fragments d’arêtes."
+    ],
+    "variants": [],
+    "allergens": [
+      "Poisson"
+    ],
+    "dietaryNote": "Une rouille ajouterait notamment œuf et éventuellement moutarde ; du pain ajouterait du blé.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "soupe-poissons-provencale",
+    "title": "Soupe de poissons provençale",
+    "description": "Un bouillon de poissons de roche au fenouil et à la tomate, soigneusement passé.",
+    "history": "Le littoral provençal connaît diverses soupes de poissons de roche. Cette soupe passée se distingue du service en morceaux d’une bouillabaisse.",
+    "mainIngredient": "Poisson",
+    "ingredients": [
+      {
+        "name": "Poisson de roche",
+        "quantity": 1500,
+        "unit": "g",
+        "note": "vidé et préparé par le poissonnier"
+      },
+      {
+        "name": "Tomate",
+        "quantity": 500,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 6,
+        "unit": "gousses",
+        "note": ""
+      },
+      {
+        "name": "Fenouil",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 40,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 1500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Safran",
+        "quantity": 0.1,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Faire préparer les poissons par le poissonnier. Rincer les légumes ; couper tomates, oignons et fenouil."
+      },
+      {
+        "title": "Attendrir",
+        "text": "Chauffer l’huile. Faire fondre oignons, ail et fenouil 10 minutes, sans les brunir."
+      },
+      {
+        "title": "Extraire les saveurs",
+        "text": "Ajouter poissons puis tomates. Cuire doucement 10 minutes avant de verser l’eau et le safran."
+      },
+      {
+        "title": "Passer",
+        "text": "Frémir 30 minutes. Passer au moulin puis au tamis très fin en pressant ; éliminer toutes les arêtes."
+      },
+      {
+        "title": "Servir",
+        "text": "Réchauffer le liquide filtré, vérifier l’assaisonnement et servir. Proposer séparément du pain grillé si souhaité."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alain Ducasse et Damien Leroux — Soupe de poissons de roche",
+        "url": "https://www.academiedugout.fr/recettes/soupe-de-poissons-de-roche_7095_2",
+        "scope": "Méthode visible de cuisson et passage au chinois ; adaptation à l’eau sans rouille."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Soupe de poissons provençale",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Bouillabaisse",
+    "country": "France",
+    "region": "Marseille, Provence",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 40,
+    "cook": 45,
+    "rest": 30,
+    "difficulty": "Avancé",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Goûter avant de saler ; ajuster le liquide à la consistance souhaitée."
+    ],
+    "variants": [],
+    "allergens": [
+      "Poisson"
+    ],
+    "dietaryNote": "Croûtons et rouille ne sont pas inclus : vérifier leurs allergènes si ajoutés.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Version domestique ; aucune certification au titre de la charte marseillaise.",
+      "Recette non testée en cuisine ; cuisson variable selon les espèces et la taille des morceaux.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "bouillabaisse",
+    "title": "Bouillabaisse",
+    "description": "Poissons méditerranéens, pommes de terre et bouillon safrané, servis distinctement.",
+    "history": "Emblématique de Marseille, la bouillabaisse repose sur plusieurs poissons très frais. La charte des restaurateurs ne couvre pas toutes les pratiques familiales.",
+    "mainIngredient": "Poisson",
+    "ingredients": [
+      {
+        "name": "Poissons pour bouillabaisse",
+        "quantity": 2000,
+        "unit": "g",
+        "note": "rascasse, grondin, congre, vive ou lotte selon arrivage ; préparés"
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 600,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Tomate",
+        "quantity": 400,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Fenouil",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 4,
+        "unit": "gousses",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 60,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 1800,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Safran",
+        "quantity": 0.2,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Écorce d’orange non traitée",
+        "quantity": 1,
+        "unit": "morceau",
+        "note": ""
+      },
+      {
+        "name": "Thym",
+        "quantity": 1,
+        "unit": "brin",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Choisir",
+        "text": "Demander des poissons adaptés, vidés et tronçonnés. Réserver les parures propres pour le bouillon."
+      },
+      {
+        "title": "Parfumer",
+        "text": "Mélanger les poissons à l’huile, au safran et à l’ail écrasé. Réserver 30 minutes au réfrigérateur."
+      },
+      {
+        "title": "Faire le bouillon",
+        "text": "Attendrir oignon et fenouil 5 minutes. Ajouter tomate, parures, thym, orange et eau ; bouillir 20 minutes puis filtrer."
+      },
+      {
+        "title": "Cuire",
+        "text": "Remettre le bouillon avec les pommes de terre en rondelles. Après 10 minutes, ajouter les poissons fermes puis fragiles ; cuire 10 à 15 minutes."
+      },
+      {
+        "title": "Présenter",
+        "text": "Vérifier la cuisson. Disposer poissons et pommes de terre sur un plat, servir le bouillon à part."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Office de tourisme de Marseille — La bouillabaisse",
+        "url": "https://www.marseille-tourisme.com/decouvrez-marseille/gastronomie/specialitees-culinaires-marseillaises/la-bouillabaisse/",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      },
+      {
+        "title": "My Provence — La bouillabaisse",
+        "url": "https://www.myprovence.fr/ca-s-agite-dans-le-local/passez-a-table/reportage/marseille/la-bouillabaisse",
+        "scope": "Contexte provençal et diversité du plat."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Bouillabaisse",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Caldo verde",
+    "country": "Portugal",
+    "region": "Tradition portugaise, particulièrement associée au Nord",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 20,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Goûter avant de saler ; ajuster le liquide à la consistance souhaitée."
+    ],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Contient du porc. Vérifier le chouriço. La broa facultative peut contenir du blé.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "caldo-verde",
+    "title": "Caldo verde",
+    "description": "Pommes de terre, fines lanières de chou et rondelles de chouriço.",
+    "history": "Le caldo verde fait partie du répertoire portugais. La couve galega très finement coupée donne son aspect caractéristique au bouillon.",
+    "mainIngredient": "Chou",
+    "ingredients": [
+      {
+        "name": "Pomme de terre",
+        "quantity": 600,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Couve galega ou chou vert",
+        "quantity": 200,
+        "unit": "g",
+        "note": "feuilles sans côtes"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousses",
+        "note": ""
+      },
+      {
+        "name": "Chouriço portugais",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 50,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 1500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Peler pommes de terre, oignon et ail. Couper grossièrement puis mettre dans l’eau avec le chouriço."
+      },
+      {
+        "title": "Cuire la base",
+        "text": "Ajouter la moitié de l’huile. Frémir 25 minutes, jusqu’à tendreté des pommes de terre ; retirer le chouriço."
+      },
+      {
+        "title": "Tailler le chou",
+        "text": "Laver les feuilles, enlever les côtes puis les rouler pour obtenir des lanières très fines."
+      },
+      {
+        "title": "Réunir",
+        "text": "Écraser ou mixer la base. Ajouter le chou égoutté et cuire 10 minutes à découvert, jusqu’à tendreté."
+      },
+      {
+        "title": "Servir",
+        "text": "Goûter et ajouter l’huile restante. Partager le chouriço en rondelles dans les bols puis verser la soupe."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visit Portugal — Traditional Portuguese Recipes: Caldo-Verde",
+        "url": "https://www.visitportugal.com/en/content/traditional-portuguese-recipes-caldo-verde-portuguese-collard-greens-soup",
+        "scope": "École de tourisme et d’hôtellerie de Lisbonne ; huile réduite pour cette adaptation."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Caldo verde",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Scotch broth",
+    "country": "Royaume-Uni",
+    "region": "Écosse",
+    "category": "Soupes traditionnelles",
+    "portions": 4,
+    "prep": 20,
+    "cook": 90,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Goûter avant de saler ; ajuster le liquide à la consistance souhaitée."
+    ],
+    "variants": [
+      {
+        "text": "Scottish Scran décrit aussi des versions au bouillon végétal ou de bœuf.",
+        "source": 0
+      }
+    ],
+    "allergens": [
+      "Orge (gluten)",
+      "Lait"
+    ],
+    "dietaryNote": "Cette version à l’agneau n’est pas végétarienne. Vérifier le céleri éventuel du bouillon.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "scotch-broth",
+    "title": "Scotch broth",
+    "description": "Orge, pois cassés et légumes dans un bouillon d’agneau.",
+    "history": "Soupe familiale écossaise aux recettes variables, souvent préparée au mouton ou à l’agneau. Son origine précise n’est pas établie ici.",
+    "mainIngredient": "Orge",
+    "ingredients": [
+      {
+        "name": "Orge perlé",
+        "quantity": 110,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pois cassés",
+        "quantity": 70,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Carotte",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Rutabaga",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Poireau",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Chou blanc",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon d’agneau",
+        "quantity": 1800,
+        "unit": "ml",
+        "note": "déjà préparé"
+      },
+      {
+        "name": "Agneau cuit",
+        "quantity": 200,
+        "unit": "g",
+        "note": "effiloché"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 20,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Persil",
+        "quantity": 10,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Rincer",
+        "text": "Trier puis rincer orge et pois cassés. Peler les racines, nettoyer le poireau et couper les légumes en dés."
+      },
+      {
+        "title": "Faire suer",
+        "text": "Fondre le beurre. Faire revenir oignon, poireau, carotte et rutabaga 5 minutes sans forte coloration."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Ajouter orge, pois cassés et bouillon. Frémir à couvert environ 65 minutes en remuant de temps à autre."
+      },
+      {
+        "title": "Compléter",
+        "text": "Ajouter chou émincé et agneau cuit. Poursuivre 20 minutes ; grains et pois doivent être fondants."
+      },
+      {
+        "title": "Finir",
+        "text": "Détendre au besoin avec de l’eau chaude. Goûter, poivrer et parsemer de persil."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Scottish Scran — Traditional Scotch Broth Recipe",
+        "url": "https://scottishscran.com/scotch-broth-recipe/",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Scotch broth",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  }
+]

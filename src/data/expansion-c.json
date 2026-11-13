@@ -1,0 +1,1907 @@
+[
+  {
+    "originalName": "Velouté de champignons",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait",
+      "Amande (fruit à coque)"
+    ],
+    "dietaryNote": "La poudre d’amandes fait partie de cette version. Vérifier également les allergènes du bouillon végétal.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de champignon, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-champignons",
+    "title": "Velouté de champignons",
+    "mainIngredient": "Champignon",
+    "ingredients": [
+      {
+        "name": "Champignon de Paris",
+        "quantity": 650,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Échalote",
+        "quantity": 80,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 25,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 700,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème fraîche",
+        "quantity": 80,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Amande en poudre",
+        "quantity": 10,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Cerfeuil",
+        "quantity": 5,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Manger Bouger — Velouté de champignons",
+        "url": "https://www.mangerbouger.fr/manger-mieux/la-fabrique-a-menus/recettes/2029-veloute-de-champignons",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Nettoyer rapidement les champignons puis les émincer. Peler les échalotes et les ciseler ; réserver quelques lamelles de champignons."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Ajouter les champignons et laisser réduire leur eau 5 minutes. Verser bouillon et poudre d’amandes ; frémir 20 minutes."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Incorporer la crème et réchauffer doucement. Poêler les lamelles réservées avec une partie de l’huile et servir avec le cerfeuil."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de champignons",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté de courgettes",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "diet": [
+      "Végétalien",
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Végétalien avec le bouillon de légumes prévu ; vérifier sa composition.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de courgette, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-courgettes",
+    "title": "Velouté de courgettes",
+    "mainIngredient": "Courgette",
+    "ingredients": [
+      {
+        "name": "Courgette",
+        "quantity": 650,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 300,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 20,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 800,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Persil",
+        "quantity": 5,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Anne Lataillade — Velouté de courgettes aux pommes de terre et oignons",
+        "url": "https://www.papillesetpupilles.fr/2023/01/veloute-de-courgettes-aux-pommes-de-terre-et-oignons.html/",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Rincer les courgettes et garder leur peau si elle est tendre. Peler pommes de terre et oignon ; couper régulièrement."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Ajouter courgettes et pommes de terre aux oignons. Verser le bouillon et frémir 25 minutes, jusqu’à ce que les pommes de terre s’écrasent."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Goûter, rectifier la texture et réchauffer. Ajouter le persil ciselé au service ; cette version ne comporte pas de crème."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de courgettes",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté de carottes au gingembre",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Contient du lait. Cette version à l’eau convient à un régime végétarien.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de carotte, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-carottes-gingembre",
+    "title": "Velouté de carottes au gingembre",
+    "mainIngredient": "Carotte",
+    "ingredients": [
+      {
+        "name": "Carotte",
+        "quantity": 700,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Gingembre frais",
+        "quantity": 15,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 1,
+        "unit": "gousse",
+        "note": ""
+      },
+      {
+        "name": "Huile de tournesol",
+        "quantity": 20,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 850,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 100,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Coriandre fraîche",
+        "quantity": 5,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Région Bretagne — Livre de recettes 2023, Lycée Auguste Brizeux",
+        "url": "https://www.bretagne.bzh/app/uploads/Livre-de-Recettes-2023.pdf",
+        "scope": "Association carotte-gingembre-crème ; proportions adaptées, sans reprendre la quantité éditorialement ambiguë de coriandre."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Peler les carottes puis les couper en rondelles fines. Peler et hacher oignon, ail et gingembre."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Après les oignons, ajouter ail, gingembre et carottes. Verser l’eau ; cuire environ 30 minutes, jusqu’à ce que les carottes soient très tendres."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Ajouter la crème, chauffer doucement puis goûter. Parsemer de coriandre au service ; la force du gingembre varie selon sa fraîcheur."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de carottes au gingembre",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté de chou-fleur",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [
+      {
+        "text": "La version de L’Atelier des Chefs utilise un roux et une liaison aux jaunes d’œufs, absents de cette fiche.",
+        "source": 1
+      }
+    ],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Végétarien avec le bouillon végétal prévu ; vérifier sa composition et les allergènes éventuels.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de chou-fleur, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-chou-fleur",
+    "title": "Velouté de chou-fleur",
+    "mainIngredient": "Chou-fleur",
+    "ingredients": [
+      {
+        "name": "Chou-fleur",
+        "quantity": 700,
+        "unit": "g",
+        "note": "fleurettes nettes"
+      },
+      {
+        "name": "Blanc de poireau",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Beurre",
+        "quantity": 25,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 900,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 100,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Manger Bouger — Velouté de chou-fleur",
+        "url": "https://www.mangerbouger.fr/manger-mieux/la-fabrique-a-menus/recettes/2033-veloute-de-chou-fleur",
+        "scope": "Base domestique mixée."
+      },
+      {
+        "title": "L’Atelier des Chefs — Velouté de chou-fleur",
+        "url": "https://www.atelierdeschefs.fr/recettes/14939/veloute-de-chou-fleur/",
+        "scope": "Comparaison avec le velouté classique au roux, aux jaunes et à la crème ; cette adaptation n’utilise ni œuf ni farine."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Laver les fleurettes. Fendre et rincer le poireau ; peler la pomme de terre, puis tailler les légumes."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Ajouter chou-fleur et pomme de terre au poireau. Mouiller de bouillon et frémir 25 minutes ; les légumes doivent s’écraser facilement."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Incorporer la crème. Réchauffer sans longue ébullition puis goûter et servir dans des assiettes chaudes."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de chou-fleur",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté de brocoli",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 25,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [
+      {
+        "text": "Laurent Mariotte mixe du bleu d’Auvergne ou du roquefort avec les légumes, ce qui change l’intensité et la salinité.",
+        "source": 0
+      }
+    ],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Végétarien avec le bouillon végétal prévu ; vérifier sa composition et les allergènes éventuels.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de brocoli, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-brocoli",
+    "title": "Velouté de brocoli",
+    "mainIngredient": "Brocoli",
+    "ingredients": [
+      {
+        "name": "Brocoli",
+        "quantity": 750,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 80,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 20,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 900,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 100,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Laurent Mariotte — Velouté de brocoli au bleu",
+        "url": "https://www.laurentmariotte.com/ma-recette-de-veloute-de-brocoli-au-bleu/",
+        "scope": "Base brocoli-pomme de terre ; adaptation à la crème, sans bleu."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Laver le brocoli ; détacher les fleurettes et peler le pied fibreux avant de le couper. Peler pomme de terre et oignon."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Ajouter les pommes de terre en petits dés et l’eau ; cuire 10 minutes. Mettre le brocoli et cuire encore 10 minutes, sans prolonger inutilement."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Ajouter la crème, réchauffer et ajuster l’assaisonnement. Servir aussitôt pour conserver une couleur agréable."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de brocoli",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté de petits pois",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 20,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Été"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [
+      {
+        "text": "La recette de Papa en cuisine propose beurre de cacahuètes, citron vert et garniture d’arachides ; elle contient alors l’allergène arachide.",
+        "source": 0
+      }
+    ],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Contient du lait. Les arachides de la recette source sont volontairement absentes de cette adaptation.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de petit pois, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-petits-pois",
+    "title": "Velouté de petits pois",
+    "mainIngredient": "Petit pois",
+    "ingredients": [
+      {
+        "name": "Petit pois écossé",
+        "quantity": 600,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Échalote",
+        "quantity": 50,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Beurre",
+        "quantity": 20,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 750,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 100,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Gingembre frais",
+        "quantity": 5,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Papa en cuisine, Elle & Vire — Velouté de petits pois",
+        "url": "https://www.elle-et-vire.com/fr/fr/recettes/veloute-de-petits-pois/",
+        "scope": "Base petits pois, aromates et crème ; adaptation sans beurre de cacahuètes ni garniture d’arachides."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Écosser les petits pois frais ou utiliser des petits pois surgelés. Peler et ciseler oignon, échalote et gingembre."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Ajouter les petits pois aux aromates puis le bouillon chaud. Frémir 12 à 15 minutes, jusqu’à tendreté, sans cuisson prolongée."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Incorporer la crème et réchauffer brièvement. Pour une texture très fine, passer au tamis ; goûter et servir chaud."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de petits pois",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté de céleri-rave",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétalien",
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [],
+    "allergens": [
+      "Céleri",
+      "Noisette (fruit à coque)"
+    ],
+    "dietaryNote": "Version végétalienne au bouillon végétal. Céleri et noisettes restent présents, même sans produits laitiers.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de céleri-rave, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-celeri-rave",
+    "title": "Velouté de céleri-rave",
+    "mainIngredient": "Céleri-rave",
+    "ingredients": [
+      {
+        "name": "Céleri-rave",
+        "quantity": 650,
+        "unit": "g",
+        "note": "poids net pelé"
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 1,
+        "unit": "gousse",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 20,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Noisette",
+        "quantity": 30,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Persil",
+        "quantity": 5,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mon Marché — Le Velouté de céleri",
+        "url": "https://www.mon-marche.fr/recette/le-veloute-de-celeri",
+        "scope": "Association céleri-rave, pomme de terre et noisettes ; liquide et cuisson ajustés."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Peler soigneusement le céleri-rave et la pomme de terre. Couper en petits dés ; émincer oignon et ail."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Ajouter les dés aux aromates puis verser le bouillon. Frémir 30 minutes, jusqu’à ce que le céleri soit tendre à cœur."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Torréfier les noisettes dans une poêle sèche puis les concasser. Goûter le velouté et ajouter noisettes et persil au service."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de céleri-rave",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté de patate douce",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 20,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Contient du lait. Les feuilletés facultatifs de la source peuvent apporter blé, lait et sésame.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "description": "Un velouté de patate douce, aux saveurs nettes et à la texture lisse.",
+    "history": "Préparation domestique contemporaine ; le mot velouté est employé pour la texture mixée, sans revendiquer une liaison classique ni une origine régionale unique.",
+    "id": "veloute-patate-douce",
+    "title": "Velouté de patate douce",
+    "mainIngredient": "Patate douce",
+    "ingredients": [
+      {
+        "name": "Patate douce",
+        "quantity": 650,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Poire",
+        "quantity": 150,
+        "unit": "g",
+        "note": "pelée et épépinée"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Beurre",
+        "quantity": 25,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 850,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 100,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "sources": [
+      {
+        "title": "L’Atelier des Chefs — Velouté de patates douces et ses feuilletés",
+        "url": "https://www.atelierdeschefs.fr/recettes/15297/veloute-de-patates-douces-et-ses-feuilletes/",
+        "scope": "Base patate douce-poire-crème ; proportions adaptées, sans feuilletés."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les ingrédients",
+        "text": "Peler la patate douce et la poire ; retirer le cœur du fruit. Couper en petits cubes et ciseler l’oignon."
+      },
+      {
+        "title": "Faire suer les aromates",
+        "text": "Dans une casserole, chauffer la matière grasse puis attendrir les aromates émincés 5 minutes à feu doux, sans les brûler."
+      },
+      {
+        "title": "Cuire doucement",
+        "text": "Ajouter patate douce et poire à l’oignon. Verser le bouillon et laisser frémir 25 minutes, jusqu’à tendreté."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu. Mixer en gardant la tête du mixeur immergée. Ajouter progressivement du liquide chaud si la texture est trop épaisse."
+      },
+      {
+        "title": "Finir et servir",
+        "text": "Verser la crème, réchauffer doucement et goûter. Servir nature ; les feuilletés de la source ne font pas partie des ingrédients de cette fiche."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté de patate douce",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Velouté d’asperges",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine ; origine régionale exclusive non établie",
+    "category": "Veloutés",
+    "portions": 4,
+    "prep": 25,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Contient lait et crème ; convient à un régime végétarien, pas végétalien.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "veloute-asperges",
+    "title": "Velouté d’asperges",
+    "description": "Un velouté printanier d’asperges blanches, avec quelques pointes en finition.",
+    "history": "Cette préparation met en valeur la courte saison des asperges. Elle relève ici d’une cuisine domestique contemporaine sans origine régionale exclusive.",
+    "mainIngredient": "Asperge",
+    "ingredients": [
+      {
+        "name": "Asperge blanche",
+        "quantity": 1000,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 750,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Lait",
+        "quantity": 250,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème fraîche",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Muscade",
+        "quantity": null,
+        "unit": "",
+        "note": "une petite pincée, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Peler",
+        "text": "Laver les asperges, éliminer la base dure puis peler les tiges de dessous la pointe vers le pied."
+      },
+      {
+        "title": "Découper",
+        "text": "Tailler les tiges en tronçons en gardant les pointes reconnaissables. Émincer l’oignon pelé."
+      },
+      {
+        "title": "Cuire",
+        "text": "Mettre asperges et oignon dans l’eau. Frémir 10 minutes ; réserver quelques pointes tendres et prolonger les tiges 10 minutes."
+      },
+      {
+        "title": "Mixer",
+        "text": "Ajouter lait et crème, chauffer encore 10 minutes puis mixer. Passer au tamis si des fibres persistent."
+      },
+      {
+        "title": "Présenter",
+        "text": "Goûter, ajouter muscade, sel et poivre. Répartir en bols et déposer les pointes réservées sur chaque portion."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nicole Kucharski, Fédération Française des Diabétiques — Velouté d’asperges",
+        "url": "https://www.federationdesdiabetiques.org/diabete/recettes/veloute-dasperges",
+        "scope": "Ingrédients et déroulé ; aucune allégation de santé reprise."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Velouté d’asperges",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Minestrone di verdure",
+    "country": "Italie",
+    "region": "Recettes régionales italiennes variables",
+    "category": "Soupes du monde",
+    "portions": 4,
+    "prep": 30,
+    "cook": 50,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétalien",
+      "Végétarien"
+    ],
+    "tags": [],
+    "tips": [
+      "Garder un peu de liquide à part pour régler la consistance après mixage."
+    ],
+    "variants": [
+      {
+        "text": "La tradition milanaise emploie du riz ; cette base est proposée sans riz ni pâtes.",
+        "source": 1
+      }
+    ],
+    "allergens": [
+      "Céleri"
+    ],
+    "dietaryNote": "Végétalien sans fromage. Les haricots sont pesés cuits ; leur cuisson depuis le sec n’est pas incluse.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "minestrone",
+    "title": "Minestrone",
+    "description": "Une soupe de légumes en morceaux, enrichie de haricots blancs.",
+    "history": "Le minestrone change selon les régions, les saisons et le potager. Il ne désigne pas une liste immuable de légumes.",
+    "mainIngredient": "Légumes",
+    "ingredients": [
+      {
+        "name": "Haricot blanc cuit",
+        "quantity": 300,
+        "unit": "g",
+        "note": "égoutté"
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Carotte",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Céleri branche",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Courgette",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Courge",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Petit pois",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Tomate",
+        "quantity": 300,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 30,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 1300,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Persil",
+        "quantity": 5,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Tailler",
+        "text": "Laver puis peler les légumes qui le nécessitent. Couper en petits dés réguliers et émincer l’oignon."
+      },
+      {
+        "title": "Faire la base",
+        "text": "Chauffer l’huile. Attendrir oignon, céleri et carotte 5 minutes, sans les brûler."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Ajouter tomate, courge, pomme de terre et eau. Frémir 25 minutes ; garder les légumes couverts de liquide."
+      },
+      {
+        "title": "Compléter",
+        "text": "Ajouter courgette, petits pois et haricots déjà cuits. Poursuivre 20 minutes, jusqu’à tendreté."
+      },
+      {
+        "title": "Servir",
+        "text": "Goûter et ajuster l’assaisonnement. Parsemer de persil ; conserver les légumes en morceaux plutôt que mixer."
+      }
+    ],
+    "sources": [
+      {
+        "title": "GialloZafferano — Vegetable soup (Minestrone)",
+        "url": "https://www.giallozafferano.com/recipes/Vegetable-soup.html",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      },
+      {
+        "title": "Yes Milano — Minestrone alla Milanese",
+        "url": "https://www.yesmilano.it/en/articles/minestrone-alla-milanese",
+        "scope": "Diversité saisonnière et variante milanaise au riz."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Minestrone",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "حريرة · Harira",
+    "country": "Maroc",
+    "region": "Version marocaine ; traditions voisines au Maghreb",
+    "category": "Soupes du monde",
+    "portions": 4,
+    "prep": 30,
+    "cook": 120,
+    "rest": 720,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Faire cuire la liaison pour perdre le goût de farine ; remuer pour éviter que le fond attache."
+    ],
+    "variants": [
+      {
+        "text": "La source documente le riz à la place des vermicelles et des versions sans viande.",
+        "source": 0
+      }
+    ],
+    "allergens": [
+      "Blé (gluten)",
+      "Céleri"
+    ],
+    "dietaryNote": "Cette version contient du bœuf et du blé. Le trempage est compté dans le repos.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "harira",
+    "title": "Harira",
+    "description": "Tomate, lentilles, pois chiches et fines herbes dans une soupe soyeuse.",
+    "history": "Au Maroc, la harira accompagne notamment la rupture du jeûne de Ramadan. Viandes, féculents et liaisons diffèrent selon les foyers.",
+    "mainIngredient": "Lentille",
+    "ingredients": [
+      {
+        "name": "Bœuf à mijoter",
+        "quantity": 200,
+        "unit": "g",
+        "note": "petits dés"
+      },
+      {
+        "name": "Pois chiche sec",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Lentille brune",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Tomate pelée",
+        "quantity": 600,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Céleri branche",
+        "quantity": 60,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Coriandre fraîche",
+        "quantity": 20,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Persil",
+        "quantity": 20,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 25,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Farine de blé",
+        "quantity": 40,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Vermicelle de blé",
+        "quantity": 40,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Concentré de tomate",
+        "quantity": 30,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Gingembre moulu",
+        "quantity": 3,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Curcuma",
+        "quantity": 1,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 2000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Citron",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La veille",
+        "text": "Tremper les pois chiches 12 heures au réfrigérateur. Égoutter ; rincer les lentilles et hacher légumes et herbes."
+      },
+      {
+        "title": "Démarrer",
+        "text": "Faire revenir le bœuf dans l’huile. Ajouter oignon, tomate, concentré, pois chiches et épices ; verser la majeure partie de l’eau."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Cuire 60 minutes doucement. Ajouter lentilles, céleri et herbes, puis poursuivre 40 minutes ; vérifier les pois chiches."
+      },
+      {
+        "title": "Lier",
+        "text": "Délayer la farine dans l’eau froide restante. Ajouter progressivement en remuant ; incorporer les vermicelles et frémir 10 à 15 minutes."
+      },
+      {
+        "title": "Servir",
+        "text": "Lorsque viande et légumineuses sont tendres, goûter et rectifier. Servir avec le citron en quartiers."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Christine Benlafquih, Taste of Maroc — Moroccan Harira",
+        "url": "https://tasteofmaroc.com/moroccan-harira-soup-recipe/",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Harira",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "Phở bò",
+    "country": "Viêt Nam",
+    "region": "Version familiale de phở au bœuf ; traditions du Nord et du Sud différentes",
+    "category": "Soupes du monde",
+    "portions": 4,
+    "prep": 40,
+    "cook": 210,
+    "rest": 0,
+    "difficulty": "Avancé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Éviter une forte ébullition pendant l’extraction pour garder un bouillon clair."
+    ],
+    "variants": [
+      {
+        "text": "Andrea Nguyen propose aussi de fines tranches de bœuf cru saisies par le bouillon ; cette adaptation utilise seulement de la viande cuite.",
+        "source": 0
+      }
+    ],
+    "allergens": [
+      "Poisson"
+    ],
+    "dietaryNote": "La sauce de poisson contient du poisson. Vérifier les nouilles et sauces ; le nom du plat ne garantit pas l’absence de gluten.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Version simplifiée à viande entièrement cuite, non testée en cuisine.",
+      "Temps adapté à une marmite domestique ; surveiller le niveau de liquide.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "pho-bo",
+    "title": "Phở bò",
+    "description": "Nouilles de riz, bœuf et bouillon longuement infusé aux épices.",
+    "history": "Le phở au bœuf est emblématique du Viêt Nam. Cette adaptation familiale ne représente pas toutes les variantes régionales.",
+    "mainIngredient": "Bœuf",
+    "ingredients": [
+      {
+        "name": "Os à bouillon de bœuf",
+        "quantity": 1500,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bœuf à mijoter",
+        "quantity": 400,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Nouille de riz pour phở",
+        "quantity": 300,
+        "unit": "g",
+        "note": "poids sec"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Gingembre frais",
+        "quantity": 50,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Badiane",
+        "quantity": 3,
+        "unit": "étoiles",
+        "note": ""
+      },
+      {
+        "name": "Cannelle",
+        "quantity": 1,
+        "unit": "bâton",
+        "note": ""
+      },
+      {
+        "name": "Clou de girofle",
+        "quantity": 3,
+        "unit": "pièces",
+        "note": ""
+      },
+      {
+        "name": "Sauce de poisson",
+        "quantity": 40,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sucre candi",
+        "quantity": 15,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 3500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Ciboule",
+        "quantity": 2,
+        "unit": "pièces",
+        "note": ""
+      },
+      {
+        "name": "Coriandre fraîche",
+        "quantity": 15,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Citron vert",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Nettoyer",
+        "text": "Bouillir les os 3 minutes dans une eau séparée, égoutter et rincer. Dorer oignon et gingembre sous le gril ; retirer les parties carbonisées."
+      },
+      {
+        "title": "Démarrer",
+        "text": "Réunir os, eau, aromates, épices, sucre et sauce de poisson. Ajouter le bœuf et maintenir un léger frémissement."
+      },
+      {
+        "title": "Extraire",
+        "text": "Retirer la viande lorsqu’elle est tendre, vers 90 minutes ; réserver au frais. Poursuivre le bouillon pour atteindre 3 heures puis filtrer."
+      },
+      {
+        "title": "Préparer les bols",
+        "text": "Cuire les nouilles selon l’emballage. Trancher la viande cuite et la réchauffer dans le bouillon. Émincer ciboule et coriandre."
+      },
+      {
+        "title": "Assembler",
+        "text": "Répartir nouilles et viande, verser le bouillon très chaud et ajouter les herbes. Servir le citron vert à part."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Andrea Nguyen — Beef Pho Noodle Soup Recipe",
+        "url": "https://www.vietworldkitchen.com/blog/2008/10/pho-beef-noodle-soup.html",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Phở bò",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  },
+  {
+    "originalName": "ต้มข่าไก่ · Tom kha gai",
+    "country": "Thaïlande",
+    "region": "Cuisine thaïlandaise, version au poulet et au galanga",
+    "category": "Soupes du monde",
+    "portions": 4,
+    "prep": 20,
+    "cook": 25,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "tags": [],
+    "tips": [
+      "Le gingembre ne restitue pas le parfum du galanga : toute substitution doit être annoncée comme adaptation."
+    ],
+    "variants": [],
+    "allergens": [
+      "Poisson"
+    ],
+    "dietaryNote": "La sauce de poisson contient du poisson. Le lait de coco n’est pas laitier ; vérifier ses additifs.",
+    "verified": "2026-11-13",
+    "status": "Documentée — photographie à compléter",
+    "limits": [
+      "Adaptation domestique documentée ; recette non testée en cuisine.",
+      "Photographie spécifique à documenter."
+    ],
+    "id": "tom-kha-gai",
+    "title": "Tom kha gai",
+    "description": "Poulet au lait de coco, galanga, citronnelle et citron vert.",
+    "history": "Le galanga donne son nom au plat. En Thaïlande, cette préparation peut accompagner le riz plutôt qu’être consommée seule en entrée.",
+    "mainIngredient": "Poulet",
+    "ingredients": [
+      {
+        "name": "Cuisse de poulet désossée",
+        "quantity": 500,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Lait de coco",
+        "quantity": 600,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 400,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Galanga frais",
+        "quantity": 40,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Citronnelle",
+        "quantity": 2,
+        "unit": "tiges",
+        "note": ""
+      },
+      {
+        "name": "Feuille de combava",
+        "quantity": 6,
+        "unit": "pièces",
+        "note": ""
+      },
+      {
+        "name": "Champignon",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sauce de poisson",
+        "quantity": 30,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Jus de citron vert",
+        "quantity": 45,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Piment frais",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "adapter la force"
+      },
+      {
+        "name": "Coriandre fraîche",
+        "quantity": 10,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Couper le poulet. Émincer le galanga ; écraser puis tronçonner la citronnelle. Déchirer les feuilles de combava."
+      },
+      {
+        "title": "Infuser",
+        "text": "Réunir eau, lait de coco et aromates. Chauffer doucement puis frémir 8 minutes, sans forte ébullition."
+      },
+      {
+        "title": "Cuire le poulet",
+        "text": "Ajouter poulet, oignon et champignons coupés. Frémir environ 15 minutes ; vérifier que le poulet est entièrement cuit à cœur."
+      },
+      {
+        "title": "Équilibrer",
+        "text": "Hors du feu, ajouter sauce de poisson et jus de citron vert. Goûter puis ajuster acidité et sel ; ajouter le piment."
+      },
+      {
+        "title": "Présenter",
+        "text": "Retirer les tronçons coriaces et le galanga, ou les signaler comme aromates non destinés à être mangés. Ajouter la coriandre."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mark Wiens, Eating Thai Food — Tom Kha Gai",
+        "url": "https://www.eatingthaifood.com/tom-kha-gai-recipe-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3-%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%81%E0%B9%88/",
+        "scope": "Base culinaire consultée ; proportions et instructions adaptées et rédigées pour La Soupothèque."
+      }
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Photographie à documenter : Tom kha gai",
+      "changes": "Visuel de remplacement original",
+      "note": "Photographie spécifique à documenter."
+    }
+  }
+]

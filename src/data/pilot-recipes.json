@@ -1,0 +1,750 @@
+[
+  {
+    "id": "soupe-oignon",
+    "title": "Soupe à l’oignon gratinée",
+    "originalName": "Soupe à l’oignon",
+    "country": "France",
+    "region": "Tradition de bistrot, notamment parisienne",
+    "category": "Soupes traditionnelles",
+    "description": "Des oignons lentement dorés, un bouillon parfumé et une croûte de pain sous son manteau de fromage.",
+    "history": "Un classique des tables françaises, aujourd’hui associé aux bistrots et aux repas tardifs. Plusieurs récits lui prêtent une naissance royale : nous ne les retenons pas comme des faits établis. La version présentée privilégie les oignons dorés et le gratin au gruyère.",
+    "portions": 4,
+    "prep": 20,
+    "cook": 80,
+    "rest": 0,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Oignon",
+    "tags": [
+      "gratinée",
+      "bistrot",
+      "fromage",
+      "bouillon"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon jaune",
+        "quantity": 850,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Beurre",
+        "quantity": 60,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Farine de blé",
+        "quantity": 20,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de volaille",
+        "quantity": 1200,
+        "unit": "ml",
+        "note": "peu salé, vérifier les allergènes"
+      },
+      {
+        "name": "Pain de blé",
+        "quantity": 120,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Gruyère",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Émincer les oignons",
+        "text": "Peler les oignons puis les couper en demi-rondelles fines et régulières. Préparer une cocotte à fond épais et garder un peu d’eau à proximité."
+      },
+      {
+        "title": "Obtenir une couleur dorée",
+        "text": "Faire fondre le beurre à feu moyen, ajouter les oignons puis réduire le feu. Cuire 40 à 50 minutes en remuant régulièrement. Ils doivent devenir souples et blond ambré ; s’ils attachent, détacher les sucs avec un peu d’eau."
+      },
+      {
+        "title": "Lier et mouiller",
+        "text": "Saupoudrer la farine sur les oignons. Mélanger pendant 2 minutes, puis verser progressivement le bouillon chaud en décollant le fond de la cocotte."
+      },
+      {
+        "title": "Laisser mijoter",
+        "text": "Maintenir un petit frémissement pendant 25 minutes, sans couvrir complètement. Goûter avant de saler : le bouillon et le fromage apportent déjà du sel."
+      },
+      {
+        "title": "Préparer les bols",
+        "text": "Faire griller les tranches de pain. Répartir la soupe dans quatre bols explicitement adaptés au gril du four et les poser sur une plaque stable."
+      },
+      {
+        "title": "Gratiner et servir",
+        "text": "Déposer le pain sur la soupe, couvrir de gruyère et passer 3 à 5 minutes sous le gril préchauffé, en surveillant continuellement. Sortir avec des gants et prévenir que les bols sont brûlants."
+      }
+    ],
+    "tips": [
+      "La couleur des oignons, davantage que le chronomètre, détermine la profondeur du goût. Ne pas les noircir.",
+      "Sans bols adaptés au gril, gratiner les tartines séparément sur une plaque puis les déposer sur la soupe."
+    ],
+    "variants": [
+      {
+        "text": "Le bouillon de bœuf est une autre base classique ; le bouillon de volaille constitue une option documentée.",
+        "source": 1
+      }
+    ],
+    "allergens": [
+      "Blé (gluten)",
+      "Lait"
+    ],
+    "dietaryNote": "Bouillon de volaille : cette version ne convient pas à un régime végétarien. Vérifier le céleri et les autres allergènes indiqués sur le bouillon ; les fromages peuvent contenir une présure animale.",
+    "sources": [
+      {
+        "title": "Académie du Goût — Soupe à l’oignon gratinée",
+        "url": "https://www.academiedugout.fr/recettes/soupe-a-loignon-gratinee_9737_4",
+        "scope": "Base culinaire, ingrédients et coloration ; seule la partie librement accessible a été consultée."
+      },
+      {
+        "title": "Daniel Gritzer, Serious Eats — French Onion Soup",
+        "url": "https://www.seriouseats.com/french-onion-soup-recipe",
+        "scope": "Coloration lente et choix du bouillon."
+      }
+    ],
+    "limits": [
+      "Proportions de beurre et chronométrage adaptés pour ce pilote ; recette non testée en cuisine.",
+      "Origine historique précise non établie."
+    ],
+    "verified": "2026-11-12",
+    "status": "Pilote — à valider",
+    "photo": {
+      "file": "images/soupe-oignon.webp",
+      "author": "Ralph Daily from Birmingham, United States",
+      "source": "https://commons.wikimedia.org/wiki/File:French_Onion_Soup_(6635668505).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "alt": "Soupe à l’oignon dans un bol, couverte de pain et de fromage gratiné.",
+      "changes": "Redimensionnement et conversion WebP ; recadrage visuel dans les cartes."
+    }
+  },
+  {
+    "id": "veloute-potimarron",
+    "title": "Velouté de potimarron",
+    "originalName": "Velouté de potimarron",
+    "country": "France",
+    "region": "Cuisine familiale contemporaine",
+    "category": "Veloutés",
+    "description": "Une texture soyeuse, la douceur du potimarron et une touche de crème pour accueillir les jours frais.",
+    "history": "Ce velouté appartient au répertoire contemporain des soupes de courges. Le potimarron lui donne sa couleur et sa texture ; aucune région française ni date d’invention exclusive n’est attribuée ici. La préparation proposée est une adaptation domestique de techniques de chefs.",
+    "portions": 4,
+    "prep": 20,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "mainIngredient": "Potimarron",
+    "tags": [
+      "courge",
+      "crémeux",
+      "doux",
+      "automne"
+    ],
+    "ingredients": [
+      {
+        "name": "Potimarron",
+        "quantity": 1000,
+        "unit": "g",
+        "note": "chair nette, sans graines"
+      },
+      {
+        "name": "Blanc de poireau",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Carotte",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Beurre",
+        "quantity": 30,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 750,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème liquide",
+        "quantity": 150,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer la courge",
+        "text": "Brosser puis rincer le potimarron. Sur une planche stable, le partager avec un couteau solide, retirer les graines et peser la chair. Peler si la peau est dure ; couper en morceaux de 2 à 3 cm."
+      },
+      {
+        "title": "Préparer les aromates",
+        "text": "Fendre le poireau pour éliminer la terre entre les feuilles, rincer et émincer le blanc. Peler la carotte et la couper en fines rondelles."
+      },
+      {
+        "title": "Faire suer doucement",
+        "text": "Dans une cocotte, fondre le beurre puis ajouter le poireau et la carotte. Remuer 5 minutes à feu doux sans les laisser colorer."
+      },
+      {
+        "title": "Cuire jusqu’à tendreté",
+        "text": "Ajouter le potimarron et l’eau. Porter à frémissement, couvrir partiellement et cuire environ 25 minutes. La pointe d’un couteau doit traverser la chair sans résistance."
+      },
+      {
+        "title": "Mixer avec précaution",
+        "text": "Retirer du feu. Avec un mixeur plongeant, travailler en gardant la tête immergée pour limiter les projections. Ajouter la crème, puis mixer jusqu’à obtenir une texture homogène."
+      },
+      {
+        "title": "Ajuster et servir",
+        "text": "Réchauffer doucement, goûter puis assaisonner. Pour une texture moins épaisse, ajouter un peu d’eau chaude. Servir dans des bols chauds."
+      }
+    ],
+    "tips": [
+      "Le poids indiqué correspond à la chair préparée : prévoir une courge plus lourde à l’achat.",
+      "La texture varie selon la courge ; ajouter le liquide progressivement lors de l’ajustement final."
+    ],
+    "variants": [
+      {
+        "text": "Une finition aux graines toastées et à la crème de sauge est documentée par la cheffe Séverine Pailhès ; elle constitue une garniture distincte de cette version simple.",
+        "source": 1
+      }
+    ],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Version végétarienne à l’eau et à la crème, sans bouillon de viande. Les garnitures optionnelles doivent être évaluées séparément pour leurs allergènes.",
+    "sources": [
+      {
+        "title": "Éric Frechon — Velouté de potimarron",
+        "url": "https://www.president-professionnel.fr/recettes/fin-veloute-de-potimarron/",
+        "scope": "Association potimarron, poireau, carotte, eau et crème ; adaptation des matières grasses."
+      },
+      {
+        "title": "Les Tables du Gers — Séverine Pailhès",
+        "url": "https://www.lestablesdugers.fr/sites/default/files/recette_veloute_de_potimarron.pdf",
+        "scope": "Variante de cheffe avec crème de sauge et graines."
+      }
+    ],
+    "limits": [
+      "Adaptation domestique, sans revendication de recette régionale ancienne ; non testée en cuisine.",
+      "Photographie de soupe de courge : la variété potimarron n’est pas certifiée. Visuel de remplacement ; photographie spécifique à valider."
+    ],
+    "verified": "2026-11-12",
+    "status": "Pilote — à valider",
+    "photo": {
+      "file": "images/veloute-potimarron.webp",
+      "author": "Superbass",
+      "source": "https://commons.wikimedia.org/wiki/File:2018-11-01-K%C3%BCrbissuppe-1128.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt": "Soupe de courge orange garnie de graines, d’huile et de persil ; variété non certifiée.",
+      "changes": "Redimensionnement et conversion WebP ; recadrage visuel dans les cartes.",
+      "note": "Photographie de soupe de courge : la variété potimarron n’est pas certifiée. Visuel de remplacement ; photographie spécifique à valider."
+    }
+  },
+  {
+    "id": "soupe-miso",
+    "title": "Soupe miso",
+    "originalName": "味噌汁 · Misoshiru",
+    "country": "Japon",
+    "region": "Cuisine familiale japonaise",
+    "category": "Soupes du monde",
+    "description": "Un bouillon léger au miso, des cubes de tofu et du wakame : quelques gestes pour un bol délicat.",
+    "history": "La soupe miso associe un bouillon dashi à une pâte fermentée et à des garnitures variables. Elle accompagne couramment le repas japonais. Le tofu et le wakame forment ici une version de base ; les misos et garnitures diffèrent selon les régions et les foyers.",
+    "portions": 4,
+    "prep": 10,
+    "cook": 5,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Tofu",
+    "tags": [
+      "miso",
+      "umami",
+      "wakame",
+      "rapide",
+      "japonais"
+    ],
+    "ingredients": [
+      {
+        "name": "Dashi à la bonite",
+        "quantity": 800,
+        "unit": "ml",
+        "note": "prêt à l’emploi, préparé selon le fabricant"
+      },
+      {
+        "name": "Tofu nature",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Wakame séché",
+        "quantity": 4,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Miso",
+        "quantity": 50,
+        "unit": "g",
+        "note": "ajuster selon sa salinité"
+      },
+      {
+        "name": "Ciboule",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "Réhydrater le wakame",
+        "text": "Mettre le wakame dans un bol d’eau froide pendant 5 à 10 minutes, selon son emballage. Égoutter ; recouper les grandes feuilles en morceaux faciles à manger."
+      },
+      {
+        "title": "Découper les garnitures",
+        "text": "Égoutter le tofu délicatement puis le couper en cubes d’environ 1,5 cm. Rincer et émincer finement la ciboule."
+      },
+      {
+        "title": "Chauffer le bouillon",
+        "text": "Verser le dashi dans une casserole et le porter au frémissement. Ajouter le tofu et le wakame puis chauffer doucement 2 à 3 minutes sans casser les cubes."
+      },
+      {
+        "title": "Délayer le miso",
+        "text": "Couper le feu. Prélever une petite louche de bouillon dans un bol et y délayer le miso avec une cuillère, jusqu’à disparition des grumeaux."
+      },
+      {
+        "title": "Réunir et servir",
+        "text": "Reverser le mélange dans la casserole en remuant doucement. Goûter, répartir dans quatre petits bols et ajouter la ciboule. Servir aussitôt ; éviter de refaire bouillir après l’ajout du miso."
+      }
+    ],
+    "tips": [
+      "Le dashi indiqué est un bouillon déjà préparé, et non 800 ml de concentré.",
+      "Commencer avec moins de miso si le bouillon est salé ; les marques ont des intensités différentes."
+    ],
+    "variants": [
+      {
+        "text": "Japan Centre mentionne notamment les shiitakés, le daikon et le tofu frit parmi les garnitures possibles ; adapter leur temps de cuisson.",
+        "source": 1
+      }
+    ],
+    "allergens": [
+      "Soja",
+      "Poisson"
+    ],
+    "dietaryNote": "Le dashi à la bonite contient du poisson. Certains misos contiennent de l’orge ou du blé : vérifier les étiquettes avant de conclure à l’absence de gluten. Aucune promesse « sans allergènes ».",
+    "sources": [
+      {
+        "title": "Marukome — Basic Miso Soup With Wakame Seaweed and Tofu",
+        "url": "https://www.marukome.co.jp/global/en/recipe/miso_001/",
+        "scope": "Tofu, wakame et incorporation du miso hors du feu."
+      },
+      {
+        "title": "Japan Centre — Miso soup",
+        "url": "https://www.japancentre.com/en/recipe/2-miso-soup",
+        "scope": "Bouillon à la bonite, méthode et garnitures variables."
+      }
+    ],
+    "limits": [
+      "Quantités ajustées pour quatre petits bols ; non testée en cuisine."
+    ],
+    "verified": "2026-11-12",
+    "status": "Pilote — à valider",
+    "photo": {
+      "file": "images/soupe-miso.webp",
+      "author": "Douglas Perkins",
+      "source": "https://commons.wikimedia.org/wiki/File:A_bowl_of_miso_soup.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Bol brun de soupe miso avec des cubes de tofu.",
+      "changes": "Redimensionnement et conversion WebP ; recadrage visuel dans les cartes."
+    }
+  },
+  {
+    "id": "gaspacho-andalou",
+    "title": "Gaspacho andalou",
+    "originalName": "Gazpacho andaluz",
+    "country": "Espagne",
+    "region": "Andalousie",
+    "category": "Soupes froides",
+    "description": "Tomates mûres, poivron vert et huile d’olive : toute la fraîcheur du potager dans une soupe sans cuisson.",
+    "history": "Cette soupe froide est associée à l’Andalousie. La version rouge à la tomate côtoie d’autres préparations ibériques, sans s’y confondre. Nous présentons une base au pain et au poivron vert ; le concombre et l’oignon peuvent être servis en garniture plutôt qu’intégrés.",
+    "portions": 4,
+    "prep": 20,
+    "cook": 0,
+    "rest": 120,
+    "difficulty": "Facile",
+    "seasons": [
+      "Été"
+    ],
+    "diet": [
+      "Végétalien",
+      "Végétarien"
+    ],
+    "mainIngredient": "Tomate",
+    "tags": [
+      "froid",
+      "tomates",
+      "sans cuisson",
+      "été",
+      "gazpacho"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomate mûre",
+        "quantity": 1000,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Poivron vert",
+        "quantity": 2,
+        "unit": "pièces",
+        "note": "petits"
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousses",
+        "note": ""
+      },
+      {
+        "name": "Pain de blé",
+        "quantity": 100,
+        "unit": "g",
+        "note": "rassis, sans moisissure"
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 60,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Vinaigre de Xérès",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 150,
+        "unit": "ml",
+        "note": "froide, à ajuster"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les légumes",
+        "text": "Laver les tomates et les poivrons. Retirer les pédoncules, les graines et les cloisons blanches des poivrons. Couper le tout en morceaux et peler les gousses d’ail."
+      },
+      {
+        "title": "Assouplir le pain",
+        "text": "Mouiller le pain avec une partie de l’eau prévue. Attendre quelques minutes pour que la mie s’assouplisse ; réserver le reste de l’eau pour régler la consistance."
+      },
+      {
+        "title": "Mixer finement",
+        "text": "Réunir tomates, poivrons, ail, pain et vinaigre dans le bol du mixeur. Mixer jusqu’à obtenir une purée fluide, puis incorporer l’huile d’olive en filet."
+      },
+      {
+        "title": "Régler la texture",
+        "text": "Goûter et saler progressivement. Ajouter l’eau froide réservée par petites quantités. Si les peaux gênent, passer au tamis en pressant avec une cuillère."
+      },
+      {
+        "title": "Laisser refroidir",
+        "text": "Transvaser dans un récipient couvert et mettre au réfrigérateur pendant 2 heures. Ce repos est un choix pratique de service pour le pilote, plutôt qu’une durée universelle de tradition."
+      },
+      {
+        "title": "Servir bien frais",
+        "text": "Remuer puis goûter à nouveau. Répartir dans quatre bols ou verres ; proposer séparément, si souhaité, quelques légumes finement taillés en garniture."
+      }
+    ],
+    "tips": [
+      "Choisir des tomates bien mûres : leur goût détermine celui du gaspacho.",
+      "Éviter les glaçons au service si la texture est déjà ajustée : ils diluent la soupe."
+    ],
+    "variants": [
+      {
+        "text": "L’office du tourisme espagnol propose des garnitures de concombre, oignon, pain ou œuf dur. L’œuf retire le caractère végétalien ; les garnitures sont exclues des quantités de base.",
+        "source": 0
+      }
+    ],
+    "allergens": [
+      "Blé (gluten)"
+    ],
+    "dietaryNote": "La base est végétalienne. Le vinaigre de Xérès peut contenir des sulfites selon son étiquetage ; vérifier aussi la composition du pain.",
+    "sources": [
+      {
+        "title": "Office du tourisme d’Espagne — Gazpacho",
+        "url": "https://www.spain.info/fr/recette/gaspacho/",
+        "scope": "Origine andalouse, proportions de base et garnitures."
+      },
+      {
+        "title": "Gordon Ramsay — Gazpacho",
+        "url": "https://www.gordonramsay.com/gr/recipes/gazpacho/",
+        "scope": "Repos au frais et ajustement de l’assaisonnement avant le service."
+      }
+    ],
+    "limits": [
+      "Temps de repos et quantité initiale d’eau sont des choix éditoriaux ; non testée en cuisine."
+    ],
+    "verified": "2026-11-12",
+    "status": "Pilote — à valider",
+    "photo": {
+      "file": "images/gaspacho-andalou.webp",
+      "author": "Vegan Warrior",
+      "source": "https://commons.wikimedia.org/wiki/File:Gazpacho.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "alt": "Gaspacho rouge orangé présenté dans un verre.",
+      "changes": "Redimensionnement et conversion WebP ; recadrage visuel dans les cartes."
+    }
+  },
+  {
+    "id": "ribollita",
+    "title": "Ribollita",
+    "originalName": "Ribollita",
+    "country": "Italie",
+    "region": "Toscane",
+    "category": "Soupes-repas",
+    "description": "Du chou noir, des haricots blancs et du pain rassis : une généreuse soupe toscane, encore meilleure réchauffée.",
+    "history": "La ribollita s’inscrit dans la cuisine paysanne toscane qui fait bon usage du pain rassis. Son nom renvoie au fait de la réchauffer. Chou noir, haricots et pain en constituent le cœur ; les proportions et légumes changent d’une famille à l’autre.",
+    "portions": 4,
+    "prep": 25,
+    "cook": 65,
+    "rest": 720,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétalien",
+      "Végétarien"
+    ],
+    "mainIngredient": "Haricot blanc",
+    "tags": [
+      "chou noir",
+      "cannellini",
+      "pain",
+      "toscane",
+      "nourrissant"
+    ],
+    "ingredients": [
+      {
+        "name": "Haricot blanc cannellini cuit",
+        "quantity": 400,
+        "unit": "g",
+        "note": "égoutté ; ne pas utiliser cru"
+      },
+      {
+        "name": "Chou noir de Toscane",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Carotte",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Céleri branche",
+        "quantity": 100,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Oignon jaune",
+        "quantity": 150,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousses",
+        "note": ""
+      },
+      {
+        "name": "Tomate pelée",
+        "quantity": 250,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pain de blé",
+        "quantity": 180,
+        "unit": "g",
+        "note": "rassis, idéalement toscan sans sel"
+      },
+      {
+        "name": "Huile d’olive",
+        "quantity": 45,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Thym",
+        "quantity": 2,
+        "unit": "brins",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les légumes",
+        "text": "Rincer les légumes. Émincer oignon, ail et céleri, puis couper carotte et pomme de terre en petits dés. Retirer les tiges coriaces du chou noir et détailler les feuilles."
+      },
+      {
+        "title": "Construire la base",
+        "text": "Chauffer 30 ml d’huile dans une cocotte. Ajouter oignon, carotte et céleri ; laisser fondre 10 minutes à feu doux. Incorporer l’ail et le thym, puis les tomates écrasées."
+      },
+      {
+        "title": "Faire mijoter",
+        "text": "Ajouter les pommes de terre, le chou et l’eau. Porter à frémissement et cuire 30 minutes, jusqu’à ce que les légumes soient tendres. Remuer de temps en temps."
+      },
+      {
+        "title": "Ajouter les haricots et le pain",
+        "text": "Écraser grossièrement la moitié des haricots cuits. Mettre tous les haricots dans la cocotte avec le pain déchiré. Laisser épaissir 15 minutes à feu doux ; ajouter un peu d’eau si le fond accroche."
+      },
+      {
+        "title": "Préparer le repos",
+        "text": "Retirer le thym, goûter et assaisonner. Répartir dans des récipients peu profonds pour accélérer le refroidissement, puis réfrigérer sans dépasser 2 heures à température ambiante. Laisser une nuit au frais."
+      },
+      {
+        "title": "Réchauffer le lendemain",
+        "text": "Remettre en casserole avec un peu d’eau si nécessaire. Chauffer en remuant jusqu’à ce que l’ensemble soit bien fumant et frémissant, environ 10 minutes. Servir avec les 15 ml d’huile restants et du poivre."
+      }
+    ],
+    "tips": [
+      "Le temps affiché comprend une nuit de repos ; les haricots sont déjà cuits.",
+      "Le pain doit se fondre dans la soupe : la ribollita est épaisse, presque à manger à la fourchette."
+    ],
+    "variants": [
+      {
+        "text": "Le chou de Milan ou la blette accompagnent parfois le chou noir ; les versions familiales toscanes varient sans recette unique.",
+        "source": 1
+      }
+    ],
+    "allergens": [
+      "Blé (gluten)",
+      "Céleri"
+    ],
+    "dietaryNote": "Végétalienne avec un pain sans produits animaux et des haricots nature. La recette ne comprend ni parmesan ni bouillon de viande.",
+    "sources": [
+      {
+        "title": "Visit Tuscany — 5 Tuscan soups for winter evenings",
+        "url": "https://www.visittuscany.com/en/ideas/5-tuscan-soups/",
+        "scope": "Tradition toscane et rôle du réchauffage."
+      },
+      {
+        "title": "Great Italian Chefs, GIC Kitchen — Ribollita",
+        "url": "https://www.greatitalianchefs.com/recipes/ribollita-recipe",
+        "scope": "Base culinaire et légumes ; adaptation avec haricots déjà cuits."
+      }
+    ],
+    "limits": [
+      "Haricots déjà cuits utilisés pour rendre le temps de préparation prévisible ; non testée en cuisine.",
+      "Repos de 12 heures retenu pour le calcul des durées."
+    ],
+    "verified": "2026-11-12",
+    "status": "Pilote — à valider",
+    "photo": {
+      "file": "images/ribollita.webp",
+      "author": "Ithunn",
+      "source": "https://commons.wikimedia.org/wiki/File:Ribollita_toscana.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "alt": "Ribollita toscane épaisse aux légumes et au pain.",
+      "changes": "Redimensionnement et conversion WebP ; recadrage visuel dans les cartes."
+    }
+  }
+]

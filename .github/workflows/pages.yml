@@ -1,0 +1,45 @@
+name: Vérifier et publier La Soupothèque
+on:
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: Publier la version vérifiée sur GitHub Pages
+        type: boolean
+        default: false
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run validate
+      - run: npm test
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+        if: inputs.deploy
+      - uses: actions/upload-pages-artifact@v4
+        if: inputs.deploy
+        with:
+          path: dist
+  deploy:
+    if: inputs.deploy
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publier
+        id: deployment
+        uses: actions/deploy-pages@v4

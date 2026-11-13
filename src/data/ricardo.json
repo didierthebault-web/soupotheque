@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "ricardo-11410",
+    "title": "Crème de patate douce et de pois chiches",
+    "originalName": "Crème de patate douce et de pois chiches",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Une crème de patate douce et de pois chiches, relevée de gingembre et de cari.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 25,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Patate douce",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Patate douce",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [],
+    "steps": [],
+    "tips": [],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Composition complète non accessible : allergènes et régimes non vérifiés.",
+    "sources": [
+      {
+        "title": "RICARDO — Crème de patate douce et de pois chiches",
+        "url": "https://www.ricardocuisine.com/recettes/11410-creme-de-patate-douce-et-de-pois-chiches",
+        "scope": "Titre, présentation et durées accessibles ; ingrédients et préparation réservés aux abonnés."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "À consulter chez Ricardo",
+    "limits": [
+      "Ingrédients et préparation réservés aux abonnés lors de la consultation : aucun contenu caché n’a été reconstitué.",
+      "Fiche de découverte uniquement ; consulter Ricardo pour cuisiner."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Crème de patate douce et de pois chiches — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11410,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11410-creme-de-patate-douce-et-de-pois-chiches",
+    "externalOnly": true
+  },
+  {
+    "id": "ricardo-11399",
+    "title": "Potage de panais, croûtons à la sauge",
+    "originalName": "Potage de panais, croûtons à la sauge",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Un potage clair de légumes-racines, accompagné de croûtons parfumés à la sauge.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 8,
+    "prep": 35,
+    "cook": 50,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Panais",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Panais",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [],
+    "steps": [],
+    "tips": [],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Composition complète non accessible : allergènes et régimes non vérifiés.",
+    "sources": [
+      {
+        "title": "RICARDO — Potage de panais, croûtons à la sauge",
+        "url": "https://www.ricardocuisine.com/recettes/11399-potage-de-panais-croutons-a-la-sauge",
+        "scope": "Titre, présentation et durées accessibles ; ingrédients et préparation réservés aux abonnés."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "À consulter chez Ricardo",
+    "limits": [
+      "Ingrédients et préparation réservés aux abonnés lors de la consultation : aucun contenu caché n’a été reconstitué.",
+      "Fiche de découverte uniquement ; consulter Ricardo pour cuisiner."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Potage de panais, croûtons à la sauge — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11399,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11399-potage-de-panais-croutons-a-la-sauge",
+    "externalOnly": true
+  },
+  {
+    "id": "ricardo-11370",
+    "title": "Soupe poulet et nouilles au fenouil",
+    "originalName": "Soupe poulet et nouilles au fenouil",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Du poulet mijoté, des nouilles aux œufs et une fraîcheur anisée de fenouil.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 40,
+    "cook": 90,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Poulet",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Poulet"
+    ],
+    "ingredients": [
+      {
+        "name": "Bulbe de fenouil",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Cuisses de poulet avec la peau",
+        "quantity": 4,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Céleri",
+        "quantity": 2,
+        "unit": "branche",
+        "note": "émincées en biseau"
+      },
+      {
+        "name": "Carotte",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "émincée en biseau"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché"
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "note": "hachées"
+      },
+      {
+        "name": "Gingembre frais",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 2000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Curcuma",
+        "quantity": 1,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Nouilles aux oeufs",
+        "quantity": 115,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Feuilles d’estragon",
+        "quantity": 30,
+        "unit": "ml",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer le fenouil",
+        "text": "Hacher le bulbe et réserver séparément ses tiges et son feuillage émincés. Tailler les autres légumes."
+      },
+      {
+        "title": "Colorer le poulet",
+        "text": "Dans l’huile chaude, dorer les cuisses par petites fournées : environ 4 minutes côté peau, puis 2 minutes de l’autre côté. Réserver."
+      },
+      {
+        "title": "Faire le bouillon",
+        "text": "Faire suer fenouil, céleri, carotte et oignon dans la casserole. Ajouter ail et gingembre, puis eau, curcuma et cuisses. Laisser frémir environ 50 minutes."
+      },
+      {
+        "title": "Désosser et cuire les nouilles",
+        "text": "Retirer le poulet ; après un léger refroidissement, enlever peau et os, puis détailler la chair. Cuire les nouilles séparément et égoutter."
+      },
+      {
+        "title": "Réunir le bol",
+        "text": "Remettre chair et nouilles dans le bouillon avec l’estragon et le fenouil réservé. Réchauffer, ajuster l’assaisonnement et servir."
+      }
+    ],
+    "tips": [
+      "Garder les nouilles séparées du bouillon si le service est différé."
+    ],
+    "variants": [],
+    "allergens": [
+      "Blé (gluten)",
+      "Œuf",
+      "Céleri"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe poulet et nouilles au fenouil",
+        "url": "https://www.ricardocuisine.com/recettes/11370-soupe-poulet-et-nouilles-au-fenouil",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe poulet et nouilles au fenouil — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11370,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11370-soupe-poulet-et-nouilles-au-fenouil",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-11369",
+    "title": "Soupe aux pois cassés, à la courge et au fromage en grains",
+    "originalName": "Soupe aux pois cassés, à la courge et au fromage en grains",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Pois jaunes, courge fondante et rôtie, bacon et fromage en grains composent un bol généreux.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 30,
+    "cook": 75,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Pois cassé",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Pois cassé"
+    ],
+    "ingredients": [
+      {
+        "name": "Courge Butternut",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "pelée · environ 900 g avant préparation"
+      },
+      {
+        "name": "Tranches de bacon",
+        "quantity": 2,
+        "unit": "tranche",
+        "note": "coupées en dés"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché"
+      },
+      {
+        "name": "Carotte",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "râpée"
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 2000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Pois jaunes cassés",
+        "quantity": 330,
+        "unit": "g",
+        "note": "rincés et égouttés"
+      },
+      {
+        "name": "Ail",
+        "quantity": 6,
+        "unit": "gousse",
+        "note": ""
+      },
+      {
+        "name": "Épices",
+        "quantity": 1,
+        "unit": "ml",
+        "note": "facultatif"
+      },
+      {
+        "name": "Fromage en grains",
+        "quantity": 1,
+        "unit": "sac",
+        "note": "contenant de 200 g"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Partager la courge",
+        "text": "Chauffer le four à 220 °C. Détailler 420 g de courge en dés ; râper le reste, après avoir retiré peau et graines."
+      },
+      {
+        "title": "Préparer le bacon",
+        "text": "Faire dorer le bacon environ 8 minutes. Réserver les morceaux et recueillir le gras de cuisson."
+      },
+      {
+        "title": "Cuire les pois",
+        "text": "Faire suer oignon, carotte et courge râpée dans une partie du gras. Ajouter bouillon, pois rincés, ail entier et épices. Mijoter environ 50 minutes, jusqu’à tendreté."
+      },
+      {
+        "title": "Rôtir la garniture",
+        "text": "En parallèle, enrober les dés de courge d’un peu de gras réservé et les rôtir environ 20 minutes ; remuer à mi-cuisson."
+      },
+      {
+        "title": "Terminer et garnir",
+        "text": "Extraire la pulpe des gousses d’ail et la remettre dans la soupe. Ajouter courge rôtie et bacon. Répartir le fromage en grains au service."
+      }
+    ],
+    "tips": [
+      "Si le bacon rend peu de gras, compléter avec un peu d’huile ; cet ajout dépend du produit."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe aux pois cassés, à la courge et au fromage en grains",
+        "url": "https://www.ricardocuisine.com/recettes/11369-soupe-aux-pois-casses-a-la-courge-et-au-fromage-en-grains",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe aux pois cassés, à la courge et au fromage en grains — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11369,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11369-soupe-aux-pois-casses-a-la-courge-et-au-fromage-en-grains",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-11368",
+    "title": "Soupe aux boulettes de veau, aux rapinis et au parmesan",
+    "originalName": "Soupe aux boulettes de veau, aux rapinis et au parmesan",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Des boulettes aux herbes, de petits légumes et des pâtes dans un bouillon au parmesan.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 40,
+    "cook": 45,
+    "rest": 0,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Veau",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Veau"
+    ],
+    "ingredients": [
+      {
+        "name": "Fromage parmesan frais",
+        "quantity": 35,
+        "unit": "g",
+        "note": "Boulettes"
+      },
+      {
+        "name": "Chapelure panko",
+        "quantity": 20,
+        "unit": "g",
+        "note": "Boulettes"
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "note": "Boulettes · râpées finement"
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 45,
+        "unit": "ml",
+        "note": "Boulettes"
+      },
+      {
+        "name": "Graines de fenouil moulues",
+        "quantity": 2.5,
+        "unit": "ml",
+        "note": "Boulettes"
+      },
+      {
+        "name": "Flocons de piment broyé",
+        "quantity": 1,
+        "unit": "ml",
+        "note": "Boulettes"
+      },
+      {
+        "name": "Veau haché",
+        "quantity": 450,
+        "unit": "g",
+        "note": "Boulettes"
+      },
+      {
+        "name": "Feuilles de basilic",
+        "quantity": 10,
+        "unit": "g",
+        "note": "Boulettes · ciselées"
+      },
+      {
+        "name": "Feuilles de persil plat",
+        "quantity": 10,
+        "unit": "g",
+        "note": "Boulettes · ciselées"
+      },
+      {
+        "name": "Courgette",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "Soupe · coupée en dés"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 15,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "Soupe · haché"
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 1500,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Croûte de parmesan",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "Soupe"
+      },
+      {
+        "name": "Botte de rapinis",
+        "quantity": 1,
+        "unit": "botte",
+        "note": "Soupe · coupés en tronçons de 5 mm de longueur"
+      },
+      {
+        "name": "Citrons",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "Soupe · le zeste râpé finement"
+      },
+      {
+        "name": "Petites pâtes alimentaires",
+        "quantity": 115,
+        "unit": "g",
+        "note": "Soupe"
+      },
+      {
+        "name": "Fromage parmesan",
+        "quantity": null,
+        "unit": "",
+        "note": "Soupe · pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Feuilles de basilic",
+        "quantity": null,
+        "unit": "",
+        "note": "Soupe · pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Quartiers de citron",
+        "quantity": null,
+        "unit": "",
+        "note": "Soupe · pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Assembler les boulettes",
+        "text": "Préchauffer à 220 °C. Mélanger parmesan, panko, ail, bouillon et épices. Attendre 2 minutes puis incorporer le veau et les herbes."
+      },
+      {
+        "title": "Cuire au four",
+        "text": "Former des boulettes régulières avec les mains légèrement huilées. Les répartir sur une plaque et cuire environ 15 minutes, jusqu’à cuisson complète."
+      },
+      {
+        "title": "Préparer la soupe",
+        "text": "Dorer la courgette 5 minutes dans l’huile. Ajouter l’oignon, puis le bouillon et la croûte de parmesan. Y laisser frémir les boulettes environ 20 minutes."
+      },
+      {
+        "title": "Ajouter les dernières garnitures",
+        "text": "Incorporer rapinis et zeste ; poursuivre environ 3 minutes. Cuire les petites pâtes séparément puis égoutter."
+      },
+      {
+        "title": "Servir",
+        "text": "Réunir pâtes et soupe. Ôter la croûte de fromage. Ajouter parmesan, basilic et citron dans les bols."
+      }
+    ],
+    "tips": [
+      "La source propose aussi du porc haché ; le pilote retient le veau annoncé dans le titre."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait",
+      "Blé (gluten)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe aux boulettes de veau, aux rapinis et au parmesan",
+        "url": "https://www.ricardocuisine.com/recettes/11368-soupe-aux-boulettes-de-veau-aux-rapinis-et-au-parmesan",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe aux boulettes de veau, aux rapinis et au parmesan — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11368,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11368-soupe-aux-boulettes-de-veau-aux-rapinis-et-au-parmesan",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-11367",
+    "title": "Soupe au porc, à l’aubergine et au doubanjiang",
+    "originalName": "Soupe au porc, à l’aubergine et au doubanjiang",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Un bouillon épicé au porc et à l’aubergine, équilibré par les arachides et le bok choy.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 20,
+    "cook": 45,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Porc",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Porc"
+    ],
+    "ingredients": [
+      {
+        "name": "Porc haché maigre",
+        "quantity": 450,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Huile végétale",
+        "quantity": 60,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Aubergine",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupée en cubes"
+      },
+      {
+        "name": "Arachides grillées",
+        "quantity": 115,
+        "unit": "g",
+        "note": "hachées grossièrement, et plus pour le service"
+      },
+      {
+        "name": "Ail",
+        "quantity": 4,
+        "unit": "gousse",
+        "note": "hachées"
+      },
+      {
+        "name": "Bâton de cannelle",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "environ 10 cm"
+      },
+      {
+        "name": "Anis étoilé",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Pâte de fèves de soya fermentées et de piments (doubanjiang)",
+        "quantity": 45,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Gingembre frais haché",
+        "quantity": 30,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Fécule de maïs",
+        "quantity": 10,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de boeuf",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sauce soya foncée",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sauce soya réduite en sel",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Vin de riz de Shaoxing",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Cassonade",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bébés bok choy",
+        "quantity": 225,
+        "unit": "g",
+        "note": "effeuillés"
+      },
+      {
+        "name": "Feuilles de coriandre fraîche",
+        "quantity": null,
+        "unit": "",
+        "note": "pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dorer le porc",
+        "text": "Cuire la viande environ 8 minutes dans la moitié de l’huile en la détachant en petits morceaux. Réserver."
+      },
+      {
+        "title": "Saisir l’aubergine",
+        "text": "Ajouter le reste d’huile et dorer les cubes d’aubergine environ 5 minutes. Remettre le porc avec arachides, ail, épices, doubanjiang et gingembre. Remuer une minute."
+      },
+      {
+        "title": "Préparer le liant",
+        "text": "Délayer la fécule dans une petite partie de l’eau prévue, sans grumeaux."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Verser le reste d’eau, le bouillon, les sauces soya, le Shaoxing et la cassonade. Maintenir un frémissement environ 20 minutes."
+      },
+      {
+        "title": "Finir",
+        "text": "Ajouter le liant et les bok choy. Remuer environ 2 minutes. Retirer cannelle et badiane avant le service ; garnir de coriandre."
+      }
+    ],
+    "tips": [
+      "Le doubanjiang et les sauces peuvent contenir du blé ; lire chaque étiquette."
+    ],
+    "variants": [],
+    "allergens": [
+      "Arachide",
+      "Soja",
+      "Blé (gluten, selon sauces)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe au porc, à l’aubergine et au doubanjiang",
+        "url": "https://www.ricardocuisine.com/recettes/11367-soupe-au-porc-a-l-aubergine-et-au-doubanjiang",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe au porc, à l’aubergine et au doubanjiang — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11367,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11367-soupe-au-porc-a-l-aubergine-et-au-doubanjiang",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-11356",
+    "title": "Crème de chou-fleur aux haricots de Lima, kale aux amandes",
+    "originalName": "Crème de chou-fleur aux haricots de Lima, kale aux amandes",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Une base de chou-fleur et de haricots de Lima, avec une garniture de kale aux amandes.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 25,
+    "cook": 45,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Chou-fleur",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Chou-fleur",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [],
+    "steps": [],
+    "tips": [],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Composition complète non accessible : allergènes et régimes non vérifiés.",
+    "sources": [
+      {
+        "title": "RICARDO — Crème de chou-fleur aux haricots de Lima, kale aux amandes",
+        "url": "https://www.ricardocuisine.com/recettes/11356-creme-de-chou-fleur-aux-haricots-de-lima-kale-aux-amandes",
+        "scope": "Titre, présentation et durées accessibles ; ingrédients et préparation réservés aux abonnés."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "À consulter chez Ricardo",
+    "limits": [
+      "Ingrédients et préparation réservés aux abonnés lors de la consultation : aucun contenu caché n’a été reconstitué.",
+      "Fiche de découverte uniquement ; consulter Ricardo pour cuisiner."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Crème de chou-fleur aux haricots de Lima, kale aux amandes — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11356,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11356-creme-de-chou-fleur-aux-haricots-de-lima-kale-aux-amandes",
+    "externalOnly": true
+  },
+  {
+    "id": "ricardo-11329",
+    "title": "Potage aux poivrons rôtis, croquettes de fromage halloumi à la friteuse à air chaud (air fryer)",
+    "originalName": "Potage aux poivrons rôtis, croquettes de fromage halloumi à la friteuse à air chaud (air fryer)",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Poivrons rôtis et noix accompagnent des croquettes de halloumi dorées à l’air chaud.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 40,
+    "cook": 50,
+    "rest": 0,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "diet": [],
+    "mainIngredient": "Poivron rouge",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Poivron rouge",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Poivrons rouges",
+        "quantity": 5,
+        "unit": "pièce",
+        "note": "Potage · coupés en deux et épépinés"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 45,
+        "unit": "ml",
+        "note": "Potage · et plus pour le service"
+      },
+      {
+        "name": "Oignons",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "Potage · émincés"
+      },
+      {
+        "name": "Ail",
+        "quantity": 3,
+        "unit": "gousse",
+        "note": "Potage · hachées"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1500,
+        "unit": "ml",
+        "note": "Potage · option retenue parmi les bouillons proposés"
+      },
+      {
+        "name": "Cubes de pain",
+        "quantity": 100,
+        "unit": "g",
+        "note": "Potage"
+      },
+      {
+        "name": "Noix de Grenoble",
+        "quantity": 50,
+        "unit": "g",
+        "note": "Potage · légèrement grillées, et plus pour le service"
+      },
+      {
+        "name": "Paprika doux",
+        "quantity": 15,
+        "unit": "ml",
+        "note": "Potage"
+      },
+      {
+        "name": "Cumin moulu",
+        "quantity": 5,
+        "unit": "ml",
+        "note": "Potage"
+      },
+      {
+        "name": "Harissa",
+        "quantity": 5,
+        "unit": "ml",
+        "note": "Potage"
+      },
+      {
+        "name": "Farine tout usage non blanchie",
+        "quantity": 30,
+        "unit": "g",
+        "note": "Croquettes"
+      },
+      {
+        "name": "Graines de fenouil moulues",
+        "quantity": 7.5,
+        "unit": "ml",
+        "note": "Croquettes"
+      },
+      {
+        "name": "Oeufs",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "Croquettes"
+      },
+      {
+        "name": "Chapelure panko",
+        "quantity": 120,
+        "unit": "g",
+        "note": "Croquettes"
+      },
+      {
+        "name": "Fromage halloumi",
+        "quantity": 1,
+        "unit": "bloc",
+        "note": "Croquettes · contenant de 400 g · coupé en tranches de 1 cm d’épaisseur"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Rôtir les poivrons",
+        "text": "Chauffer le four à 230 °C. Huiler les demi-poivrons avec un tiers de l’huile du potage. Rôtir environ 25 minutes, face coupée dessous."
+      },
+      {
+        "title": "Faire le potage",
+        "text": "Faire suer oignons et ail dans le reste d’huile. Ajouter les poivrons et tous les ingrédients du potage ; laisser frémir 10 minutes. Mixer et garder au chaud."
+      },
+      {
+        "title": "Préparer la panure",
+        "text": "Répartir farine et fenouil dans une assiette, œufs battus dans une autre et panko dans une troisième."
+      },
+      {
+        "title": "Enrober le halloumi",
+        "text": "Passer chaque tranche dans la farine, puis l’œuf et le panko. Presser la chapelure et huiler légèrement la surface."
+      },
+      {
+        "title": "Dorer et servir",
+        "text": "Cuire les croquettes à 200 °C en friteuse à air, par fournées espacées, 13 à 15 minutes ; retourner à mi-cuisson. Servir avec le potage."
+      }
+    ],
+    "tips": [
+      "Les fournées de croquettes peuvent allonger le service selon la capacité de l’appareil."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait",
+      "Œuf",
+      "Blé (gluten)",
+      "Noix de Grenoble"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Potage aux poivrons rôtis, croquettes de fromage halloumi à la friteuse à air chaud (air fryer)",
+        "url": "https://www.ricardocuisine.com/recettes/11329-potage-aux-poivrons-rotis-croquettes-de-fromage-halloumi-a-la-friteuse-a-air-chaud-air-fryer",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Potage aux poivrons rôtis, croquettes de fromage halloumi à la friteuse à air chaud (air fryer) — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11329,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11329-potage-aux-poivrons-rotis-croquettes-de-fromage-halloumi-a-la-friteuse-a-air-chaud-air-fryer",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-11315",
+    "title": "Soupe aux crevettes aigre-piquante (de style tom yum)",
+    "originalName": "Soupe aux crevettes aigre-piquante (de style tom yum)",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes du monde",
+    "description": "Une proposition aigre-piquante aux crevettes, aux nouilles de riz et aux parfums de tom yum.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 15,
+    "cook": 25,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Crevette",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Crevette"
+    ],
+    "ingredients": [],
+    "steps": [],
+    "tips": [],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Composition complète non accessible : allergènes et régimes non vérifiés.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe aux crevettes aigre-piquante (de style tom yum)",
+        "url": "https://www.ricardocuisine.com/recettes/11315-soupe-aux-crevettes-aigre-piquante-de-style-tom-yum",
+        "scope": "Titre, présentation et durées accessibles ; ingrédients et préparation réservés aux abonnés."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "À consulter chez Ricardo",
+    "limits": [
+      "Ingrédients et préparation réservés aux abonnés lors de la consultation : aucun contenu caché n’a été reconstitué.",
+      "Fiche de découverte uniquement ; consulter Ricardo pour cuisiner."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe aux crevettes aigre-piquante (de style tom yum) — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11315,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11315-soupe-aux-crevettes-aigre-piquante-de-style-tom-yum",
+    "externalOnly": true
+  },
+  {
+    "id": "ricardo-11165",
+    "title": "Potage de carottes au gingembre",
+    "originalName": "Potage de carottes au gingembre",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Carottes et pomme de terre composent un potage lisse, réveillé par le gingembre.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 15,
+    "cook": 40,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien",
+      "Végétalien"
+    ],
+    "mainIngredient": "Carotte",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Carotte",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché"
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "note": "hachées"
+      },
+      {
+        "name": "Gingembre frais",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 30,
+        "unit": "ml",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Carottes",
+        "quantity": 520,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1250,
+        "unit": "ml",
+        "note": "option retenue parmi les bouillons proposés"
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "pelée et coupée en gros dés"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Tailler",
+        "text": "Préparer oignon, ail et gingembre. Couper les carottes en rondelles et la pomme de terre en dés."
+      },
+      {
+        "title": "Faire suer",
+        "text": "Chauffer l’huile, puis y assouplir oignon, ail et gingembre sans coloration excessive."
+      },
+      {
+        "title": "Développer la base",
+        "text": "Ajouter les carottes et remuer encore 2 minutes. Verser le bouillon de légumes puis ajouter la pomme de terre."
+      },
+      {
+        "title": "Cuire et mixer",
+        "text": "Maintenir un frémissement environ 20 minutes, jusqu’à tendreté des légumes. Hors du feu, mixer soigneusement."
+      },
+      {
+        "title": "Ajuster",
+        "text": "Goûter, rectifier sel et poivre et servir. Ajouter seulement un filet d’huile de finition si souhaité."
+      }
+    ],
+    "tips": [
+      "Cette adaptation retient le bouillon de légumes parmi les deux possibilités de la source."
+    ],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Potage de carottes au gingembre",
+        "url": "https://www.ricardocuisine.com/recettes/11165-potage-de-carottes-au-gingembre",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Potage de carottes au gingembre — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11165,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11165-potage-de-carottes-au-gingembre",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-11054",
+    "title": "Potage à la courge",
+    "originalName": "Potage à la courge",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Une courge Butternut et une pomme de terre suffisent à donner une texture douce et veloutée.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 20,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Courge Butternut",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Courge Butternut",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché"
+      },
+      {
+        "name": "Courge Butternut",
+        "quantity": 900,
+        "unit": "g",
+        "note": "les graines retirées et coupée en cubes"
+      },
+      {
+        "name": "Ail",
+        "quantity": 1,
+        "unit": "gousse",
+        "note": "hachée"
+      },
+      {
+        "name": "Huile végétale",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 1250,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "pelée et coupée en cubes"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Éplucher et épépiner la courge, puis couper sa chair et la pomme de terre en cubes. Hacher l’oignon et l’ail."
+      },
+      {
+        "title": "Assouplir",
+        "text": "Chauffer l’huile à feu doux. Y remuer oignon, courge et ail pendant environ 5 minutes."
+      },
+      {
+        "title": "Mouiller",
+        "text": "Ajouter bouillon et pomme de terre. Porter au frémissement, puis couvrir."
+      },
+      {
+        "title": "Contrôler la cuisson",
+        "text": "Cuire environ 20 minutes : la chair des deux légumes doit s’écraser facilement sous une fourchette."
+      },
+      {
+        "title": "Mixer",
+        "text": "Retirer du feu et réduire en purée. Détendre avec un peu de bouillon si nécessaire ; assaisonner avant de servir."
+      }
+    ],
+    "tips": [
+      "Le bouillon de poulet fait partie de cette version ; elle n’est pas végétarienne."
+    ],
+    "variants": [],
+    "allergens": [],
+    "dietaryNote": "Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Potage à la courge",
+        "url": "https://www.ricardocuisine.com/recettes/11054-potage-a-la-courge",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Potage à la courge — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 11054,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/11054-potage-a-la-courge",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10876",
+    "title": "Crème de courge et de tomates rôties",
+    "originalName": "Crème de courge et de tomates rôties",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Courge et tomates rôtissent ensemble avant de devenir une crème aux parfums de thym.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 6,
+    "prep": 35,
+    "cook": 70,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "mainIngredient": "Courge Butternut",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Courge Butternut",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Courge Butternut",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupée en deux sur la longueur et les graines retirées · environ 1 kg avant préparation"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 45,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Tomates italiennes",
+        "quantity": 450,
+        "unit": "g",
+        "note": "coupées en deux"
+      },
+      {
+        "name": "Échalotes françaises",
+        "quantity": 4,
+        "unit": "pièce",
+        "note": "coupées en quartiers"
+      },
+      {
+        "name": "Ail",
+        "quantity": 4,
+        "unit": "gousse",
+        "note": ""
+      },
+      {
+        "name": "Thym",
+        "quantity": 2,
+        "unit": "branche",
+        "note": ""
+      },
+      {
+        "name": "Flocons de piment broyé",
+        "quantity": 1,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": "option retenue parmi les bouillons proposés"
+      },
+      {
+        "name": "Crème 15 % à cuisson ou 35 %",
+        "quantity": 60,
+        "unit": "ml",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Chauffer le four",
+        "text": "Préchauffer à 220 °C avec deux grilles. Huiler les moitiés de courge avec un tiers de l’huile et les placer sur une plaque, face coupée dessous."
+      },
+      {
+        "title": "Préparer les tomates",
+        "text": "Dans une cocotte adaptée au four, réunir tomates, échalotes, ail, thym, piment et huile restante. Assaisonner."
+      },
+      {
+        "title": "Rôtir",
+        "text": "Mettre la cocotte en haut et la courge en bas. Cuire environ une heure jusqu’à tendreté et légère coloration."
+      },
+      {
+        "title": "Réunir",
+        "text": "Retirer le thym. Prélever la chair de courge et l’ajouter aux tomates. Verser le bouillon et chauffer ; protéger les mains des poignées brûlantes."
+      },
+      {
+        "title": "Mixer et crémer",
+        "text": "Hors du feu, mixer puis incorporer la crème. Ajuster la consistance et l’assaisonnement."
+      }
+    ],
+    "tips": [
+      "Le pilote retient le bouillon de légumes, option explicitement proposée par Ricardo."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Crème de courge et de tomates rôties",
+        "url": "https://www.ricardocuisine.com/recettes/10876-creme-de-courge-et-de-tomates-roties",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Crème de courge et de tomates rôties — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10876,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10876-creme-de-courge-et-de-tomates-roties",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10647",
+    "title": "Soupe-repas crémeuse au poulet et au fenouil",
+    "originalName": "Soupe-repas crémeuse au poulet et au fenouil",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Poulet effiloché, fenouil et petits pois dans une soupe crémeuse au citron.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 15,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Poulet",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Poulet"
+    ],
+    "ingredients": [
+      {
+        "name": "Bulbe de fenouil",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupé en dés"
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "note": "hachées"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 30,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Farine tout usage non blanchie",
+        "quantity": 30,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 1500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Poulet cuit effiloché",
+        "quantity": 340,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "pelée et râpée"
+      },
+      {
+        "name": "Citron",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "le zeste râpé finement"
+      },
+      {
+        "name": "Petits pois",
+        "quantity": 150,
+        "unit": "g",
+        "note": "surgelé"
+      },
+      {
+        "name": "Crème 15 % à cuisson ou 35 %",
+        "quantity": 125,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Fenouil",
+        "quantity": null,
+        "unit": "",
+        "note": "pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Couper le fenouil en dés et hacher l’ail. Râper la pomme de terre et prélever le zeste du citron."
+      },
+      {
+        "title": "Faire suer",
+        "text": "Faire fondre le beurre puis y assouplir fenouil et ail environ 5 minutes."
+      },
+      {
+        "title": "Lier",
+        "text": "Répartir la farine sur les légumes ; remuer une minute. Ajouter progressivement le bouillon."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Incorporer le poulet déjà cuit, la pomme de terre et le zeste. Cuire à petit frémissement environ 10 minutes."
+      },
+      {
+        "title": "Finir",
+        "text": "Ajouter petits pois et crème. Chauffer encore 2 minutes ; goûter et garnir de feuillage de fenouil."
+      }
+    ],
+    "tips": [
+      "Utiliser du poulet déjà cuit : le temps annoncé ne comprend pas sa cuisson initiale."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait",
+      "Blé (gluten)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe-repas crémeuse au poulet et au fenouil",
+        "url": "https://www.ricardocuisine.com/recettes/10647-soupe-repas-cremeuse-au-poulet-et-au-fenouil",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites.",
+      "Le temps de cuisson initial du poulet déjà cuit n’est pas inclus."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe-repas crémeuse au poulet et au fenouil — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10647,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10647-soupe-repas-cremeuse-au-poulet-et-au-fenouil",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10581",
+    "title": "Soupe-repas à la courge spaghetti",
+    "originalName": "Soupe-repas à la courge spaghetti",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Des filaments de courge spaghetti, des haricots et du parmesan dans un bouillon tomaté.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 15,
+    "cook": 40,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Courge spaghetti",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Courge spaghetti"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché"
+      },
+      {
+        "name": "Carotte",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupée en dés"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 30,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "note": "hachées finement"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Haricots romains",
+        "quantity": 1,
+        "unit": "boîte",
+        "note": "contenant de 540 ml · rincés et égouttés"
+      },
+      {
+        "name": "Tomates en dés",
+        "quantity": 1,
+        "unit": "boîte",
+        "note": "contenant de 398 ml"
+      },
+      {
+        "name": "Origan séché",
+        "quantity": 5,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Courge spaghetti",
+        "quantity": 500,
+        "unit": "ml",
+        "note": "déjà cuite et défaite en filaments"
+      },
+      {
+        "name": "Fromage parmesan frais",
+        "quantity": 70,
+        "unit": "g",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Persil plat",
+        "quantity": 10,
+        "unit": "g",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les bases",
+        "text": "Prévoir de la courge spaghetti déjà cuite et effilée. Égoutter et rincer les haricots."
+      },
+      {
+        "title": "Faire suer",
+        "text": "Cuire oignon et carotte dans l’huile environ 5 minutes. Ajouter l’ail et remuer encore une minute."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Verser bouillon, tomates et haricots. Ajouter l’origan et laisser frémir environ 20 minutes."
+      },
+      {
+        "title": "Réunir hors du feu",
+        "text": "Ajouter les filaments de courge, le parmesan et le persil. Remuer pour les répartir sans les écraser."
+      },
+      {
+        "title": "Servir",
+        "text": "Rectifier l’assaisonnement. Répartir dans les bols avec un peu de persil et de parmesan supplémentaires, si souhaité."
+      }
+    ],
+    "tips": [
+      "La courge précuite est un ingrédient de départ ; son temps de cuisson n’est pas compris."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe-repas à la courge spaghetti",
+        "url": "https://www.ricardocuisine.com/recettes/10581-soupe-repas-a-la-courge-spaghetti",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites.",
+      "Le temps de cuisson initial de la courge spaghetti n’est pas inclus."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe-repas à la courge spaghetti — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10581,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10581-soupe-repas-a-la-courge-spaghetti",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10578",
+    "title": "Soupe espagnole à l’ail et au pain (sopa de ajo)",
+    "originalName": "Soupe espagnole à l’ail et au pain (sopa de ajo)",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes traditionnelles",
+    "description": "Une interprétation Ricardo de la sopa de ajo : pain, ail, paprika et œuf poché dans le bouillon.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 15,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Pain",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Pain"
+    ],
+    "ingredients": [
+      {
+        "name": "Jambon",
+        "quantity": 55,
+        "unit": "g",
+        "note": "coupé en petits dés"
+      },
+      {
+        "name": "Ail",
+        "quantity": 4,
+        "unit": "gousse",
+        "note": "hachées"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 60,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Pain rassis",
+        "quantity": 200,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Paprika fumé",
+        "quantity": 10,
+        "unit": "ml",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Paprika doux",
+        "quantity": 10,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Piment de Cayenne moulu",
+        "quantity": 1,
+        "unit": "pincée",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Oeufs",
+        "quantity": 4,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Persil plat",
+        "quantity": null,
+        "unit": "",
+        "note": "pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Couper le jambon et le pain en petits morceaux. Hacher l’ail ; le pilote retient quatre gousses, bas de la fourchette source."
+      },
+      {
+        "title": "Parfumer",
+        "text": "Chauffer l’huile, puis cuire ail et jambon environ 3 minutes à feu moyen. Ajouter le pain et bien l’enrober."
+      },
+      {
+        "title": "Mouiller",
+        "text": "Incorporer les paprikas et le Cayenne, puis l’eau et le bouillon. Laisser frémir environ 5 minutes."
+      },
+      {
+        "title": "Épaissir",
+        "text": "Écraser le pain dans la soupe à la cuillère. Goûter avant d’ajouter du sel, le jambon étant salé."
+      },
+      {
+        "title": "Pocher les œufs",
+        "text": "Casser les œufs séparément dans la soupe. Couvrir et cuire doucement environ 6 minutes, jusqu’à ce que les blancs soient pris. Servir avec du persil."
+      }
+    ],
+    "tips": [
+      "L’œuf peut cuire davantage selon le résultat souhaité ; les blancs doivent être pris."
+    ],
+    "variants": [],
+    "allergens": [
+      "Blé (gluten)",
+      "Œuf"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe espagnole à l’ail et au pain (sopa de ajo)",
+        "url": "https://www.ricardocuisine.com/recettes/10578-soupe-espagnole-a-l-ail-et-au-pain-sopa-de-ajo",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe espagnole à l’ail et au pain (sopa de ajo) — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10578,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10578-soupe-espagnole-a-l-ail-et-au-pain-sopa-de-ajo",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10520",
+    "title": "Crème de tomates rôties à l’ail confit",
+    "originalName": "Crème de tomates rôties à l’ail confit",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Tomates rôties et ail confit apportent de la profondeur à cette crème au basilic.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 25,
+    "cook": 55,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "mainIngredient": "Tomate",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Tomate",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Ail",
+        "quantity": 1,
+        "unit": "tête",
+        "note": ""
+      },
+      {
+        "name": "Tomates italiennes",
+        "quantity": 900,
+        "unit": "g",
+        "note": "coupées en quartiers"
+      },
+      {
+        "name": "Oignons rouges",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "émincés"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 45,
+        "unit": "ml",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Pâte de tomates",
+        "quantity": 45,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 750,
+        "unit": "ml",
+        "note": "chaud · option retenue parmi les bouillons proposés"
+      },
+      {
+        "name": "Crème 15 % à cuisson ou 35 %",
+        "quantity": 180,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Feuilles de basilic",
+        "quantity": null,
+        "unit": "",
+        "note": "pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer la cocotte",
+        "text": "Préchauffer à 190 °C. Couper le dessus de la tête d’ail pour découvrir les gousses."
+      },
+      {
+        "title": "Assembler",
+        "text": "Réunir dans une cocotte allant au four l’ail, les tomates, les oignons, l’huile et le concentré de tomate. Assaisonner."
+      },
+      {
+        "title": "Rôtir",
+        "text": "Cuire environ 55 minutes : ail et tomates doivent être très tendres."
+      },
+      {
+        "title": "Récupérer l’ail",
+        "text": "Laisser tiédir la tête d’ail environ 10 minutes, puis presser les gousses pour extraire leur pulpe. La remettre dans la cocotte."
+      },
+      {
+        "title": "Mixer",
+        "text": "Mixer les légumes, puis ajouter bouillon chaud et crème. Ajuster et réchauffer doucement ; garnir de basilic si souhaité."
+      }
+    ],
+    "tips": [
+      "Le refroidissement de l’ail est compris dans les gestes de préparation, pas ajouté au temps total source."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Crème de tomates rôties à l’ail confit",
+        "url": "https://www.ricardocuisine.com/recettes/10520-creme-de-tomates-roties-a-l-ail-confit",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites.",
+      "Les 10 minutes de tiédissement de l’ail sont comprises dans la préparation ; pas de repos supplémentaire ajouté."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Crème de tomates rôties à l’ail confit — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10520,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10520-creme-de-tomates-roties-a-l-ail-confit",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10467",
+    "title": "Soupe dahl à la patate douce",
+    "originalName": "Soupe dahl à la patate douce",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Lentilles rouges, patate douce et lait de coco composent une soupe d’inspiration dal.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 15,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien"
+    ],
+    "mainIngredient": "Lentille corail",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Lentille corail"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "Soupe · haché"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 30,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "note": "Soupe · râpées finement"
+      },
+      {
+        "name": "Gingembre frais",
+        "quantity": 5,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Pâte de tomates",
+        "quantity": 15,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Garam masala",
+        "quantity": 10,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Curcuma",
+        "quantity": 5,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": "Soupe"
+      },
+      {
+        "name": "Lait de coco",
+        "quantity": 1,
+        "unit": "boîte",
+        "note": "Soupe · contenant de 398 ml"
+      },
+      {
+        "name": "Lentilles rouges",
+        "quantity": 145,
+        "unit": "g",
+        "note": "Soupe · rincées et égouttées"
+      },
+      {
+        "name": "Patates douces",
+        "quantity": 450,
+        "unit": "g",
+        "note": "Soupe"
+      },
+      {
+        "name": "Yogourt nature",
+        "quantity": 125,
+        "unit": "ml",
+        "note": "Yogourt"
+      },
+      {
+        "name": "Feuilles de coriandre avec les tiges",
+        "quantity": 20,
+        "unit": "g",
+        "note": "Yogourt · ciselées"
+      },
+      {
+        "name": "Jus de lime",
+        "quantity": 15,
+        "unit": "ml",
+        "note": "Yogourt"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Rincer les lentilles ; couper la patate douce en dés réguliers. Préparer ail, oignon et gingembre."
+      },
+      {
+        "title": "Parfumer",
+        "text": "Dorer légèrement l’oignon dans la matière grasse environ 4 minutes. Ajouter ail et gingembre, puis concentré de tomate et épices."
+      },
+      {
+        "title": "Cuire les lentilles",
+        "text": "Verser bouillon et lait de coco. Ajouter les lentilles et laisser frémir environ 5 minutes."
+      },
+      {
+        "title": "Ajouter la patate douce",
+        "text": "Poursuivre environ 10 minutes, jusqu’à ce qu’elle soit tendre. Remuer et ajouter un peu d’eau si nécessaire."
+      },
+      {
+        "title": "Préparer la garniture",
+        "text": "Mélanger yogourt, coriandre et jus d’agrume. Ajuster les deux préparations et garnir chaque bol de yogourt parfumé."
+      }
+    ],
+    "tips": [
+      "Le beurre et le yogourt rendent cette version végétarienne, mais pas végétalienne."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe dahl à la patate douce",
+        "url": "https://www.ricardocuisine.com/recettes/10467-soupe-dahl-a-la-patate-douce",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe dahl à la patate douce — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10467,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10467-soupe-dahl-a-la-patate-douce",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10448",
+    "title": "Crème de tomates rôties, croûtons de croissants",
+    "originalName": "Crème de tomates rôties, croûtons de croissants",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Tomates rôties lentement et crème lisse, couronnées de croûtons de croissants au parmesan.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 6,
+    "prep": 40,
+    "cook": 75,
+    "rest": 0,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Tomate",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Tomate",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomates italiennes entières",
+        "quantity": 2,
+        "unit": "boîte",
+        "note": "Tomates rôties · contenant de 796 ml"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 60,
+        "unit": "ml",
+        "note": "Tomates rôties"
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "Crème · émincé"
+      },
+      {
+        "name": "Ail",
+        "quantity": 3,
+        "unit": "gousse",
+        "note": "Crème · émincées"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 30,
+        "unit": "ml",
+        "note": "Crème"
+      },
+      {
+        "name": "Pommes de terre",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "Crème · pelées et émincées"
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": "Crème"
+      },
+      {
+        "name": "Crème 15% à cuisson",
+        "quantity": 250,
+        "unit": "ml",
+        "note": "Crème"
+      },
+      {
+        "name": "Croissants",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "Croûtons · coupés en cubes"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 30,
+        "unit": "ml",
+        "note": "Croûtons"
+      },
+      {
+        "name": "Fromage parmesan frais",
+        "quantity": 15,
+        "unit": "g",
+        "note": "Croûtons"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Égoutter les tomates",
+        "text": "Préchauffer à 150 °C. Égoutter les tomates au-dessus d’un bol, les ouvrir et réserver soigneusement le jus."
+      },
+      {
+        "title": "Rôtir",
+        "text": "Étaler les tomates sur deux plaques, arroser de l’huile du groupe « Tomates rôties » et cuire environ une heure."
+      },
+      {
+        "title": "Préparer la crème",
+        "text": "Faire suer oignon et ail dans l’huile prévue. Ajouter pommes de terre, bouillon et jus réservé. Mijoter 20 minutes, puis ajouter tomates rôties et crème pour 5 minutes."
+      },
+      {
+        "title": "Dorer les croûtons",
+        "text": "Monter le four à 180 °C. Mélanger les cubes de croissant avec leur huile et le parmesan ; cuire environ 10 minutes en remuant à mi-cuisson."
+      },
+      {
+        "title": "Mixer et dresser",
+        "text": "Mixer la soupe, rectifier l’assaisonnement et répartir les croûtons au dernier moment."
+      }
+    ],
+    "tips": [
+      "Les différentes quantités d’huile correspondent à des préparations séparées : conserver leurs repères."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait",
+      "Blé (gluten)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Crème de tomates rôties, croûtons de croissants",
+        "url": "https://www.ricardocuisine.com/recettes/10448-creme-de-tomates-roties-croutons-de-croissants",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Crème de tomates rôties, croûtons de croissants — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10448,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10448-creme-de-tomates-roties-croutons-de-croissants",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10436",
+    "title": "Potage aux carottes et craquelins de tortillas au fromage",
+    "originalName": "Potage aux carottes et craquelins de tortillas au fromage",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Veloutés",
+    "description": "Un potage lacté aux carottes, accompagné d’éclats croustillants de tortillas au fromage.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 35,
+    "cook": 45,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Carotte",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Carotte",
+      "potage",
+      "crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "Potage · haché"
+      },
+      {
+        "name": "Carottes",
+        "quantity": 520,
+        "unit": "g",
+        "note": "Potage"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 30,
+        "unit": "ml",
+        "note": "Potage"
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "Potage · pelée et coupée en cubes"
+      },
+      {
+        "name": "Lait",
+        "quantity": 750,
+        "unit": "ml",
+        "note": "Potage"
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 500,
+        "unit": "ml",
+        "note": "Potage"
+      },
+      {
+        "name": "Tortillas de blé",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "Craquelins au fromage"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 15,
+        "unit": "ml",
+        "note": "Craquelins au fromage · fondu"
+      },
+      {
+        "name": "Fromage gouda",
+        "quantity": 25,
+        "unit": "g",
+        "note": "Craquelins au fromage"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer les légumes",
+        "text": "Émincer l’oignon, couper les carottes en rondelles et la pomme de terre en cubes."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Faire suer oignon et carottes dans le beurre. Ajouter pomme de terre, lait et bouillon. Cuire à frémissement environ 25 minutes."
+      },
+      {
+        "title": "Mixer",
+        "text": "Quand tous les légumes sont très tendres, retirer du feu et mixer. Goûter et ajuster."
+      },
+      {
+        "title": "Former les craquelins",
+        "text": "Chauffer le four à 180 °C. Badigeonner les tortillas de beurre fondu, les découper en triangles et répartir le fromage."
+      },
+      {
+        "title": "Dorer et servir",
+        "text": "Cuire les triangles environ 8 minutes, jusqu’à coloration. Les servir avec le potage chaud."
+      }
+    ],
+    "tips": [
+      "Réserver le beurre du groupe « Craquelins » à la finition des tortillas."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait",
+      "Blé (gluten)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Potage aux carottes et craquelins de tortillas au fromage",
+        "url": "https://www.ricardocuisine.com/recettes/10436-potage-aux-carottes-et-craquelins-de-tortillas-au-fromage",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Potage aux carottes et craquelins de tortillas au fromage — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10436,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10436-potage-aux-carottes-et-craquelins-de-tortillas-au-fromage",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10432",
+    "title": "Soupe au tofu soyeux",
+    "originalName": "Soupe au tofu soyeux",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes du monde",
+    "description": "Du tofu soyeux et des edamames dans un bouillon au gingembre, au mirin et au sésame.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 10,
+    "cook": 18,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [
+      "Végétarien",
+      "Végétalien"
+    ],
+    "mainIngredient": "Tofu",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Tofu"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon vert",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "émincé, le blanc et le vert séparés"
+      },
+      {
+        "name": "Gingembre frais",
+        "quantity": 10,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Huile végétale",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de légumes",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sauce soya réduite en sel",
+        "quantity": 45,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Mirin",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Huile de sésame grillé",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Edamames surgelés",
+        "quantity": 145,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Tofu soyeux",
+        "quantity": 1,
+        "unit": "bloc",
+        "note": "contenant de 300 g · coupé en dés ou en cubes"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Séparer la ciboule",
+        "text": "Émincer l’oignon vert en gardant blanc et vert dans deux petits récipients. Hacher le gingembre."
+      },
+      {
+        "title": "Parfumer",
+        "text": "Chauffer l’huile végétale puis y assouplir le blanc d’oignon et le gingembre."
+      },
+      {
+        "title": "Préparer le bouillon",
+        "text": "Ajouter bouillon de légumes, sauce soya, mirin et huile de sésame. Porter au frémissement."
+      },
+      {
+        "title": "Cuire les edamames",
+        "text": "Verser les edamames dans le bouillon et cuire environ 3 minutes, ou selon les indications de leur emballage."
+      },
+      {
+        "title": "Assembler",
+        "text": "Répartir délicatement le tofu en cubes dans les bols. Verser le bouillon chaud et parsemer du vert d’oignon."
+      }
+    ],
+    "tips": [
+      "Le tofu soyeux se brise facilement ; le répartir directement dans les bols."
+    ],
+    "variants": [],
+    "allergens": [
+      "Soja",
+      "Sésame",
+      "Blé (gluten, selon sauce soya)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe au tofu soyeux",
+        "url": "https://www.ricardocuisine.com/recettes/10432-soupe-au-tofu-soyeux",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe au tofu soyeux — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10432,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10432-soupe-au-tofu-soyeux",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10422",
+    "title": "Soupe au poulet, au poireau et au cheddar",
+    "originalName": "Soupe au poulet, au poireau et au cheddar",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Poulet, poireau et pommes de terre dans une soupe liée à la crème et au cheddar.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 20,
+    "cook": 30,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Poulet",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Poulet"
+    ],
+    "ingredients": [
+      {
+        "name": "Poireau",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupé en dés"
+      },
+      {
+        "name": "Ail",
+        "quantity": 2,
+        "unit": "gousse",
+        "note": "hachées"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 55,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Farine tout usage non blanchie",
+        "quantity": 40,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 1500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Poulet cuit effiloché",
+        "quantity": 340,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pommes de terre",
+        "quantity": 240,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Bébés épinards",
+        "quantity": 140,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Fécule de maïs",
+        "quantity": 10,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Crème 35%",
+        "quantity": 125,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Fromage cheddar fort",
+        "quantity": 75,
+        "unit": "g",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Aneth ciselé",
+        "quantity": null,
+        "unit": "",
+        "note": "pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer",
+        "text": "Rincer et détailler le poireau, hacher l’ail et couper les pommes de terre. Prévoir le poulet déjà cuit."
+      },
+      {
+        "title": "Lier la base",
+        "text": "Assouplir poireau et ail dans le beurre. Ajouter la farine et remuer une minute avant de verser progressivement le bouillon."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Ajouter poulet et pommes de terre. Maintenir un petit frémissement environ 15 minutes, puis incorporer les épinards."
+      },
+      {
+        "title": "Ajouter la crème",
+        "text": "Délayer la fécule dans la crème froide. Verser dans la soupe avec le cheddar et remuer environ une minute à frémissement."
+      },
+      {
+        "title": "Dresser",
+        "text": "Vérifier la tendreté des pommes de terre et ajuster l’assaisonnement. Garnir de cheddar et d’aneth."
+      }
+    ],
+    "tips": [
+      "Le temps annoncé exclut la cuisson préalable du poulet."
+    ],
+    "variants": [],
+    "allergens": [
+      "Lait",
+      "Blé (gluten)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe au poulet, au poireau et au cheddar",
+        "url": "https://www.ricardocuisine.com/recettes/10422-soupe-au-poulet-au-poireau-et-au-cheddar",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites.",
+      "Le temps de cuisson initial du poulet déjà cuit n’est pas inclus."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe au poulet, au poireau et au cheddar — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10422,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10422-soupe-au-poulet-au-poireau-et-au-cheddar",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10389",
+    "title": "Soupe minestrone (la meilleure)",
+    "originalName": "Soupe minestrone (la meilleure)",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Un minestrone généreux aux légumes, aux haricots blancs et aux petites pâtes.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 6,
+    "prep": 35,
+    "cook": 75,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "diet": [],
+    "mainIngredient": "Haricot blanc",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Haricot blanc"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupé en dés"
+      },
+      {
+        "name": "Carotte",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupée en dés"
+      },
+      {
+        "name": "Céleri",
+        "quantity": 1,
+        "unit": "branche",
+        "note": "coupée en dés"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 45,
+        "unit": "ml",
+        "note": "et plus pour le service"
+      },
+      {
+        "name": "Courgette",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "coupée en dés"
+      },
+      {
+        "name": "Ail",
+        "quantity": 4,
+        "unit": "gousse",
+        "note": "hachées finement"
+      },
+      {
+        "name": "Bouillon de poulet",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 500,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Haricots verts",
+        "quantity": 225,
+        "unit": "g",
+        "note": "parés et coupés en tronçons de 1 cm de longueur"
+      },
+      {
+        "name": "Chou de Savoie",
+        "quantity": 170,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Pomme de terre",
+        "quantity": 160,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Haricots blancs",
+        "quantity": 1,
+        "unit": "boîte",
+        "note": "contenant de 540 ml · rincés et égouttés"
+      },
+      {
+        "name": "Tomates en dés",
+        "quantity": 1,
+        "unit": "boîte",
+        "note": "contenant de 398 ml"
+      },
+      {
+        "name": "Feuilles de laurier",
+        "quantity": 2,
+        "unit": "feuille",
+        "note": ""
+      },
+      {
+        "name": "Croûte de parmesan",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": ""
+      },
+      {
+        "name": "Pâtes en forme de petites coquilles",
+        "quantity": 105,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Fromage parmesan",
+        "quantity": null,
+        "unit": "",
+        "note": "pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Faire le soffritto",
+        "text": "Chauffer l’huile puis assouplir oignon, carotte et céleri environ 8 minutes."
+      },
+      {
+        "title": "Ajouter courgette et ail",
+        "text": "Poursuivre environ 5 minutes en remuant, pour obtenir une légère coloration de la courgette."
+      },
+      {
+        "title": "Cuire les légumes",
+        "text": "Ajouter bouillon, eau, haricots verts, chou, pomme de terre, haricots blancs, tomates, laurier et croûte de parmesan. Laisser frémir environ 45 minutes."
+      },
+      {
+        "title": "Cuire les pâtes",
+        "text": "Pendant ce temps, cuire les coquilles dans une autre casserole d’eau bouillante salée. Égoutter puis réunir avec la soupe."
+      },
+      {
+        "title": "Terminer",
+        "text": "Enlever laurier et croûte de parmesan. Ajuster l’assaisonnement et servir avec le parmesan râpé."
+      }
+    ],
+    "tips": [
+      "La mention « la meilleure » appartient au titre Ricardo et n’est pas une évaluation de La Soupothèque."
+    ],
+    "variants": [],
+    "allergens": [
+      "Céleri",
+      "Blé (gluten)",
+      "Lait"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe minestrone (la meilleure)",
+        "url": "https://www.ricardocuisine.com/recettes/10389-soupe-minestrone-la-meilleure",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe minestrone (la meilleure) — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10389,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10389-soupe-minestrone-la-meilleure",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10350",
+    "title": "Soupe-lasagne",
+    "originalName": "Soupe-lasagne",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Les saveurs d’une lasagne dans un bouillon tomaté aux saucisses, épinards et fromages.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 6,
+    "prep": 15,
+    "cook": 45,
+    "rest": 0,
+    "difficulty": "Facile",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Pâte à lasagne",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Pâte à lasagne"
+    ],
+    "ingredients": [
+      {
+        "name": "Saucisses italiennes douces",
+        "quantity": 450,
+        "unit": "g",
+        "note": "la chair seulement"
+      },
+      {
+        "name": "Huile d'olive",
+        "quantity": 15,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché"
+      },
+      {
+        "name": "Bouillon de boeuf",
+        "quantity": 1000,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Eau",
+        "quantity": 625,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Tomates italiennes en dés",
+        "quantity": 1,
+        "unit": "boîte",
+        "note": "contenant de 796 ml"
+      },
+      {
+        "name": "Origan séché",
+        "quantity": 5,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Flocons de piment broyé",
+        "quantity": 1,
+        "unit": "ml",
+        "note": "facultatif"
+      },
+      {
+        "name": "Pâtes à lasagne",
+        "quantity": 170,
+        "unit": "g",
+        "note": "concassées"
+      },
+      {
+        "name": "Bébés épinards",
+        "quantity": 140,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Fromage cottage",
+        "quantity": 180,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Fromage parmesan frais",
+        "quantity": null,
+        "unit": "",
+        "note": "pour le service · pour le service, selon le goût"
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dorer la viande",
+        "text": "Faire revenir la chair des saucisses dans l’huile environ 3 minutes, en la séparant avec une cuillère."
+      },
+      {
+        "title": "Ajouter l’oignon",
+        "text": "Poursuivre environ 4 minutes avec l’oignon haché, jusqu’à coloration."
+      },
+      {
+        "title": "Mijoter",
+        "text": "Verser bouillon, eau et tomates ; ajouter origan et piment. Laisser frémir environ 5 minutes."
+      },
+      {
+        "title": "Cuire les pâtes",
+        "text": "Ajouter les feuilles de lasagne cassées en morceaux. Cuire environ 15 minutes et vérifier leur tendreté."
+      },
+      {
+        "title": "Finir hors du feu",
+        "text": "Incorporer les épinards, goûter et servir. Répartir cottage et parmesan sur les bols."
+      }
+    ],
+    "tips": [
+      "Les pâtes continuent d’absorber le bouillon au repos ; adapter la consistance avant de réchauffer."
+    ],
+    "variants": [],
+    "allergens": [
+      "Blé (gluten)",
+      "Lait"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Soupe-lasagne",
+        "url": "https://www.ricardocuisine.com/recettes/10350-soupe-lasagne",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Soupe-lasagne — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10350,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10350-soupe-lasagne",
+    "externalOnly": false
+  },
+  {
+    "id": "ricardo-10301",
+    "title": "Chaudrée gratinée au saumon et au maïs",
+    "originalName": "Chaudrée gratinée au saumon et au maïs",
+    "country": "Canada",
+    "region": "Québec · création contemporaine Ricardo",
+    "category": "Soupes-repas",
+    "description": "Saumon, maïs et pommes de terre dans une chaudrée crémeuse gratinée au fromage.",
+    "history": "Une proposition contemporaine publiée par Ricardo au Québec. Son classement dans La Soupothèque décrit la préparation ; il ne revendique pas une origine québécoise exclusive pour le plat ou ses inspirations.",
+    "portions": 4,
+    "prep": 30,
+    "cook": 35,
+    "rest": 0,
+    "difficulty": "Intermédiaire",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "diet": [],
+    "mainIngredient": "Saumon",
+    "tags": [
+      "Ricardo",
+      "Québec",
+      "Saumon"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignon",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché finement"
+      },
+      {
+        "name": "Blanc de poireau",
+        "quantity": 1,
+        "unit": "pièce",
+        "note": "haché"
+      },
+      {
+        "name": "Beurre",
+        "quantity": 40,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Farine tout usage non blanchie",
+        "quantity": 30,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Jus de palourdes",
+        "quantity": 2,
+        "unit": "bouteille",
+        "note": "contenant de 236 ml"
+      },
+      {
+        "name": "Lait",
+        "quantity": 625,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Pommes de terre blanches",
+        "quantity": 2,
+        "unit": "pièce",
+        "note": "pelées et coupées en dés"
+      },
+      {
+        "name": "Grains de maïs surgelés",
+        "quantity": 300,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Crème 15% à cuisson",
+        "quantity": 250,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Filet de saumon sans la peau",
+        "quantity": 340,
+        "unit": "g",
+        "note": "coupé en cubes"
+      },
+      {
+        "name": "Bacon",
+        "quantity": 4,
+        "unit": "tranche",
+        "note": "coupées en lardons"
+      },
+      {
+        "name": "Fromage de type Jarlsberg râpé",
+        "quantity": 125,
+        "unit": "g",
+        "note": ""
+      },
+      {
+        "name": "Ciboulette ciselée",
+        "quantity": 30,
+        "unit": "ml",
+        "note": ""
+      },
+      {
+        "name": "Sel",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      },
+      {
+        "name": "Poivre",
+        "quantity": null,
+        "unit": "",
+        "note": "selon le goût"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Préparer la base",
+        "text": "Assouplir oignon et poireau dans le beurre environ 5 minutes. Ajouter la farine et remuer une minute."
+      },
+      {
+        "title": "Mouiller et cuire",
+        "text": "Incorporer jus de palourdes et lait en remuant. Ajouter les pommes de terre ; cuire environ 10 minutes à frémissement."
+      },
+      {
+        "title": "Ajouter saumon et maïs",
+        "text": "Ajouter maïs, crème et cubes de saumon. Poursuivre environ 4 minutes, en vérifiant la cuisson du poisson."
+      },
+      {
+        "title": "Dorer le bacon",
+        "text": "Faire revenir les lardons séparément, puis en incorporer les trois quarts dans la soupe."
+      },
+      {
+        "title": "Gratiner",
+        "text": "Répartir dans des bols adaptés au gril, posés sur une plaque. Couvrir de fromage et gratiner environ 2 minutes sous surveillance. Ajouter bacon restant et ciboulette."
+      }
+    ],
+    "tips": [
+      "À défaut de bols compatibles avec le gril, servir la chaudrée sans passage au four."
+    ],
+    "variants": [],
+    "allergens": [
+      "Poisson",
+      "Mollusque",
+      "Lait",
+      "Blé (gluten)"
+    ],
+    "dietaryNote": "Allergènes identifiés dans les ingrédients retenus ; Vérifier les étiquettes des bouillons, sauces, charcuteries et produits composés. Les accompagnements suggérés mais non listés ne sont pas inclus.",
+    "sources": [
+      {
+        "title": "RICARDO — Chaudrée gratinée au saumon et au maïs",
+        "url": "https://www.ricardocuisine.com/recettes/10301-chaudree-gratinee-au-saumon-et-au-mais",
+        "scope": "Référence culinaire, proportions et durées ; préparation résumée et reformulée pour La Soupothèque."
+      }
+    ],
+    "verified": "2026-11-13",
+    "status": "Adaptation documentée — illustration à préparer",
+    "limits": [
+      "Synthèse et reformulation éditoriales de La Soupothèque ; non testée en cuisine.",
+      "Les durées publiées par Ricardo sont conservées ; elles peuvent dépasser la somme des cuissons décrites."
+    ],
+    "photo": {
+      "file": "images/placeholder.svg",
+      "author": "La Soupothèque",
+      "source": "",
+      "license": "Visuel original",
+      "licenseUrl": "",
+      "alt": "Chaudrée gratinée au saumon et au maïs — illustration à préparer",
+      "changes": "",
+      "note": "Illustration en préparation"
+    },
+    "provider": "RICARDO",
+    "sourceRecipeId": 10301,
+    "sourceRecipeUrl": "https://www.ricardocuisine.com/recettes/10301-chaudree-gratinee-au-saumon-et-au-mais",
+    "externalOnly": false
+  }
+]

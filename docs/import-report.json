@@ -1,0 +1,118 @@
+{
+  "verified": "2026-11-13",
+  "total": 439,
+  "native": 50,
+  "ricardo": 389,
+  "ricardoWithLocalPreparation": 20,
+  "ricardoWithPublicIngredients": 385,
+  "restricted": 4,
+  "categories": {
+    "Soupes traditionnelles": {
+      "total": 84,
+      "ricardo": 74
+    },
+    "Veloutés": {
+      "total": 152,
+      "ricardo": 142
+    },
+    "Soupes du monde": {
+      "total": 78,
+      "ricardo": 68
+    },
+    "Soupes froides": {
+      "total": 32,
+      "ricardo": 22
+    },
+    "Soupes-repas": {
+      "total": 93,
+      "ricardo": 83
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 2,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 3,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 4,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 5,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 6,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 7,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 8,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 9,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 10,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 11,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 12,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 13,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 14,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 15,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 16,
+      "reportedTotal": 389,
+      "count": 24
+    },
+    {
+      "page": 17,
+      "reportedTotal": 389,
+      "count": 5
+    }
+  ]
+}

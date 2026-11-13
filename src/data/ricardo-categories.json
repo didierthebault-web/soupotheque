@@ -1,0 +1,5250 @@
+{
+  "13": {
+    "category": "Veloutés",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "29": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration chinoise"
+    ]
+  },
+  "35": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Bouillon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bouillon"
+    ]
+  },
+  "77": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "80": {
+    "category": "Veloutés",
+    "mainIngredient": "Poireau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poireau"
+    ]
+  },
+  "87": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crevette",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crevette"
+    ]
+  },
+  "94": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "95": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "103": {
+    "category": "Veloutés",
+    "mainIngredient": "Topinambour",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Topinambour"
+    ]
+  },
+  "168": {
+    "category": "Veloutés",
+    "mainIngredient": "Fenouil",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fenouil"
+    ]
+  },
+  "181": {
+    "category": "Veloutés",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "182": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Palourde",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Palourde"
+    ]
+  },
+  "251": {
+    "category": "Veloutés",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "253": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "305": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "306": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "325": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Inspiration italienne"
+    ]
+  },
+  "334": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé",
+      "Inspiration vietnamienne"
+    ]
+  },
+  "335": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "336": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "338": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé"
+    ]
+  },
+  "339": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Épinard",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Épinard"
+    ]
+  },
+  "340": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Betterave",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Betterave"
+    ]
+  },
+  "390": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oseille",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oseille"
+    ]
+  },
+  "398": {
+    "category": "Veloutés",
+    "mainIngredient": "Petit pois",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Petit pois"
+    ]
+  },
+  "409": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poisson",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poisson"
+    ]
+  },
+  "428": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "489": {
+    "category": "Soupes froides",
+    "mainIngredient": "Avocat",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Avocat",
+      "Froid"
+    ]
+  },
+  "526": {
+    "category": "Veloutés",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "538": {
+    "category": "Soupes froides",
+    "mainIngredient": "Courgette",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courgette",
+      "Froid"
+    ]
+  },
+  "558": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "559": {
+    "category": "Veloutés",
+    "mainIngredient": "Poivron",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poivron"
+    ]
+  },
+  "565": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "580": {
+    "category": "Veloutés",
+    "mainIngredient": "Bière",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bière"
+    ]
+  },
+  "602": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "656": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pain",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pain",
+      "Accompagnement"
+    ]
+  },
+  "664": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu",
+      "Inspiration thaïlandaise"
+    ]
+  },
+  "675": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "766": {
+    "category": "Soupes froides",
+    "mainIngredient": "Poivron",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poivron",
+      "Froid"
+    ]
+  },
+  "798": {
+    "category": "Veloutés",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "804": {
+    "category": "Veloutés",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "843": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chorizo",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chorizo"
+    ]
+  },
+  "856": {
+    "category": "Veloutés",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "945": {
+    "category": "Veloutés",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "951": {
+    "category": "Veloutés",
+    "mainIngredient": "Épinard",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Épinard"
+    ]
+  },
+  "954": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Gourgane",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Gourgane"
+    ]
+  },
+  "957": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "970": {
+    "category": "Veloutés",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "981": {
+    "category": "Veloutés",
+    "mainIngredient": "Maïs",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Maïs"
+    ]
+  },
+  "982": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "1025": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "1053": {
+    "category": "Veloutés",
+    "mainIngredient": "Poivron",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poivron"
+    ]
+  },
+  "1060": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "1062": {
+    "category": "Veloutés",
+    "mainIngredient": "Maïs",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Maïs"
+    ]
+  },
+  "1066": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "1073": {
+    "category": "Veloutés",
+    "mainIngredient": "Poireau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poireau"
+    ]
+  },
+  "1085": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Miso",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Miso",
+      "Inspiration japonaise"
+    ]
+  },
+  "1089": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "1105": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Riz",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Riz",
+      "Inspiration thaïlandaise"
+    ]
+  },
+  "1113": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "1119": {
+    "category": "Veloutés",
+    "mainIngredient": "Haricot",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Haricot"
+    ]
+  },
+  "2088": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crabe",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crabe"
+    ]
+  },
+  "2101": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "2142": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes"
+    ]
+  },
+  "2180": {
+    "category": "Veloutés",
+    "mainIngredient": "Asperge",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Asperge"
+    ]
+  },
+  "2184": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "2190": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Maïs",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Maïs"
+    ]
+  },
+  "2202": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "2231": {
+    "category": "Veloutés",
+    "mainIngredient": "Betterave",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Betterave"
+    ]
+  },
+  "2237": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "2238": {
+    "category": "Veloutés",
+    "mainIngredient": "Huître",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Huître"
+    ]
+  },
+  "2263": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Ail",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Ail"
+    ]
+  },
+  "2264": {
+    "category": "Veloutés",
+    "mainIngredient": "Petit pois",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Petit pois"
+    ]
+  },
+  "2265": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "2266": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "2267": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon"
+    ]
+  },
+  "2268": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Haricot",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Haricot"
+    ]
+  },
+  "2283": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "2289": {
+    "category": "Veloutés",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "2333": {
+    "category": "Veloutés",
+    "mainIngredient": "Poivron",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poivron"
+    ]
+  },
+  "2354": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "2356": {
+    "category": "Soupes froides",
+    "mainIngredient": "Laitue",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Laitue",
+      "Froid"
+    ]
+  },
+  "2382": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Haricot",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Haricot"
+    ]
+  },
+  "2397": {
+    "category": "Soupes froides",
+    "mainIngredient": "Petit pois",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Petit pois",
+      "Froid"
+    ]
+  },
+  "3018": {
+    "category": "Veloutés",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon"
+    ]
+  },
+  "3019": {
+    "category": "Veloutés",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon"
+    ]
+  },
+  "3033": {
+    "category": "Soupes froides",
+    "mainIngredient": "Concombre",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Concombre",
+      "Froid"
+    ]
+  },
+  "3091": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "3092": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Fromage",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fromage"
+    ]
+  },
+  "3093": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "3094": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "3095": {
+    "category": "Soupes froides",
+    "mainIngredient": "Courgette",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courgette",
+      "Froid"
+    ]
+  },
+  "3124": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé"
+    ]
+  },
+  "3370": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "3371": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "3373": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crabe",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crabe"
+    ]
+  },
+  "3374": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crabe",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crabe"
+    ]
+  },
+  "3375": {
+    "category": "Veloutés",
+    "mainIngredient": "Asperge",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Asperge"
+    ]
+  },
+  "3376": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "3377": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "3378": {
+    "category": "Veloutés",
+    "mainIngredient": "Maïs",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Maïs"
+    ]
+  },
+  "3379": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "3381": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Inspiration italienne"
+    ]
+  },
+  "3384": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Orge",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Orge"
+    ]
+  },
+  "3385": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "3386": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "3387": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Huître",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Huître"
+    ]
+  },
+  "3389": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Homard",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Homard"
+    ]
+  },
+  "3392": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "3393": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Poivron",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poivron"
+    ]
+  },
+  "3394": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pain",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pain",
+      "Inspiration italienne"
+    ]
+  },
+  "3509": {
+    "category": "Veloutés",
+    "mainIngredient": "Poireau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poireau"
+    ]
+  },
+  "3511": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu"
+    ]
+  },
+  "3512": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "3513": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Poivron",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poivron"
+    ]
+  },
+  "3628": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes",
+      "Mijoteuse"
+    ]
+  },
+  "3721": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "3739": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "3786": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "3797": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "3799": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "3868": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Saucisse",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Saucisse"
+    ]
+  },
+  "3913": {
+    "category": "Veloutés",
+    "mainIngredient": "Céleri-rave",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri-rave"
+    ]
+  },
+  "4002": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "4042": {
+    "category": "Veloutés",
+    "mainIngredient": "Épinard",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Épinard"
+    ]
+  },
+  "4047": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "4099": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "4128": {
+    "category": "Veloutés",
+    "mainIngredient": "Petit pois",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Petit pois"
+    ]
+  },
+  "4162": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "4181": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes",
+      "Inspiration italienne"
+    ]
+  },
+  "4190": {
+    "category": "Veloutés",
+    "mainIngredient": "Échalote",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Échalote"
+    ]
+  },
+  "4340": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Riz",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Riz"
+    ]
+  },
+  "4381": {
+    "category": "Soupes froides",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre",
+      "Froid"
+    ]
+  },
+  "4392": {
+    "category": "Soupes froides",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Froid"
+    ]
+  },
+  "4479": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "4541": {
+    "category": "Soupes froides",
+    "mainIngredient": "Laitue",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Laitue",
+      "Froid"
+    ]
+  },
+  "4664": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crevette",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crevette"
+    ]
+  },
+  "4765": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poisson",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poisson"
+    ]
+  },
+  "4766": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "4783": {
+    "category": "Veloutés",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon"
+    ]
+  },
+  "4791": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "4798": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "4799": {
+    "category": "Veloutés",
+    "mainIngredient": "Brocoli",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Brocoli"
+    ]
+  },
+  "4803": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri",
+      "Inspiration italienne"
+    ]
+  },
+  "4842": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "4852": {
+    "category": "Veloutés",
+    "mainIngredient": "Radis",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Radis"
+    ]
+  },
+  "4906": {
+    "category": "Veloutés",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "4907": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Crevette",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crevette",
+      "Inspiration thaïlandaise"
+    ]
+  },
+  "4952": {
+    "category": "Veloutés",
+    "mainIngredient": "Gourgane",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Gourgane",
+      "Mijoteuse"
+    ]
+  },
+  "4953": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "4954": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Inspiration italienne"
+    ]
+  },
+  "4955": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "4956": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "4958": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon",
+      "Inspiration vietnamienne"
+    ]
+  },
+  "4987": {
+    "category": "Soupes froides",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Froid"
+    ]
+  },
+  "4995": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "5035": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "5070": {
+    "category": "Soupes froides",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte",
+      "Froid"
+    ]
+  },
+  "5075": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Fruit de mer",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fruit de mer"
+    ]
+  },
+  "5114": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Fruit de mer",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fruit de mer",
+      "Inspiration italienne"
+    ]
+  },
+  "5127": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc"
+    ]
+  },
+  "5159": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "5174": {
+    "category": "Veloutés",
+    "mainIngredient": "Rutabaga",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Rutabaga"
+    ]
+  },
+  "5184": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc"
+    ]
+  },
+  "5213": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "5214": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "5215": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "5225": {
+    "category": "Veloutés",
+    "mainIngredient": "Brocoli",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Brocoli"
+    ]
+  },
+  "5243": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Échalote",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Échalote",
+      "Inspiration vietnamienne"
+    ]
+  },
+  "5246": {
+    "category": "Veloutés",
+    "mainIngredient": "Topinambour",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Topinambour"
+    ]
+  },
+  "5303": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration italienne"
+    ]
+  },
+  "5327": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Haricot",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Haricot"
+    ]
+  },
+  "5333": {
+    "category": "Veloutés",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "5338": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "5343": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Fromage",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fromage"
+    ]
+  },
+  "5370": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "5417": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "5420": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "5442": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "5455": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "5458": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "5510": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "5546": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Courge spaghetti",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge spaghetti"
+    ]
+  },
+  "5583": {
+    "category": "Soupes froides",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri",
+      "Froid"
+    ]
+  },
+  "5593": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Inspiration italienne"
+    ]
+  },
+  "5613": {
+    "category": "Veloutés",
+    "mainIngredient": "Topinambour",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Topinambour"
+    ]
+  },
+  "5623": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet",
+      "Inspiration vietnamienne"
+    ]
+  },
+  "5631": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Orge",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Orge"
+    ]
+  },
+  "5653": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "5654": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "5655": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "5686": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Orge",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Orge"
+    ]
+  },
+  "5695": {
+    "category": "Soupes froides",
+    "mainIngredient": "Avocat",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Avocat",
+      "Froid"
+    ]
+  },
+  "5720": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration japonaise"
+    ]
+  },
+  "5739": {
+    "category": "Veloutés",
+    "mainIngredient": "Petit pois",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Petit pois"
+    ]
+  },
+  "5753": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "5779": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "5796": {
+    "category": "Veloutés",
+    "mainIngredient": "Poisson",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poisson"
+    ]
+  },
+  "5825": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "5827": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes"
+    ]
+  },
+  "5840": {
+    "category": "Veloutés",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "5847": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration italienne"
+    ]
+  },
+  "5872": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pois chiche",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois chiche"
+    ]
+  },
+  "5889": {
+    "category": "Soupes froides",
+    "mainIngredient": "Courgette",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courgette",
+      "Froid"
+    ]
+  },
+  "5975": {
+    "category": "Veloutés",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "5979": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "6011": {
+    "category": "Veloutés",
+    "mainIngredient": "Banane verte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Banane verte"
+    ]
+  },
+  "6014": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Betterave",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Betterave"
+    ]
+  },
+  "6081": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "6101": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Betterave",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Betterave"
+    ]
+  },
+  "6104": {
+    "category": "Veloutés",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "6111": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pain",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pain",
+      "Inspiration italienne"
+    ]
+  },
+  "6121": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc",
+      "Inspiration japonaise"
+    ]
+  },
+  "6143": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc",
+      "Inspiration japonaise"
+    ]
+  },
+  "6157": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte",
+      "Inspiration italienne"
+    ]
+  },
+  "6206": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crevette",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crevette"
+    ]
+  },
+  "6220": {
+    "category": "Veloutés",
+    "mainIngredient": "Maïs",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Maïs"
+    ]
+  },
+  "6271": {
+    "category": "Veloutés",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "6307": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Poisson",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poisson",
+      "Inspiration italienne"
+    ]
+  },
+  "6318": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte",
+      "Inspiration italienne"
+    ]
+  },
+  "6338": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "6347": {
+    "category": "Veloutés",
+    "mainIngredient": "Échalote",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Échalote"
+    ]
+  },
+  "6360": {
+    "category": "Veloutés",
+    "mainIngredient": "Fromage",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fromage"
+    ]
+  },
+  "6362": {
+    "category": "Veloutés",
+    "mainIngredient": "Laitue",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Laitue"
+    ]
+  },
+  "6363": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "6405": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Kale",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Kale"
+    ]
+  },
+  "6431": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pois chiche",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois chiche"
+    ]
+  },
+  "6436": {
+    "category": "Veloutés",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "6448": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crabe",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crabe"
+    ]
+  },
+  "6498": {
+    "category": "Veloutés",
+    "mainIngredient": "Poireau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poireau"
+    ]
+  },
+  "6531": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu"
+    ]
+  },
+  "6534": {
+    "category": "Soupes froides",
+    "mainIngredient": "Amande",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Amande",
+      "Froid"
+    ]
+  },
+  "6544": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "6545": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Haricot",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Haricot",
+      "Inspiration italienne"
+    ]
+  },
+  "6586": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Orge",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Orge"
+    ]
+  },
+  "6587": {
+    "category": "Veloutés",
+    "mainIngredient": "Panais",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Panais"
+    ]
+  },
+  "6588": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Saumon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Saumon",
+      "Inspiration chinoise"
+    ]
+  },
+  "6589": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "6605": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf"
+    ]
+  },
+  "6609": {
+    "category": "Veloutés",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "6640": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "6646": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Orge",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Orge",
+      "Autocuiseur"
+    ]
+  },
+  "6653": {
+    "category": "Veloutés",
+    "mainIngredient": "Courgette",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courgette"
+    ]
+  },
+  "6763": {
+    "category": "Veloutés",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "6826": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "6855": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration japonaise"
+    ]
+  },
+  "6868": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Riz",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Riz"
+    ]
+  },
+  "6869": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Homard",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Homard"
+    ]
+  },
+  "6870": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé"
+    ]
+  },
+  "6871": {
+    "category": "Veloutés",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon"
+    ]
+  },
+  "6872": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "6939": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes"
+    ]
+  },
+  "6993": {
+    "category": "Veloutés",
+    "mainIngredient": "Poireau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poireau"
+    ]
+  },
+  "7011": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou"
+    ]
+  },
+  "7047": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "7138": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Truite",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Truite"
+    ]
+  },
+  "7177": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Orge",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Orge"
+    ]
+  },
+  "7186": {
+    "category": "Veloutés",
+    "mainIngredient": "Asperge",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Asperge"
+    ]
+  },
+  "7189": {
+    "category": "Veloutés",
+    "mainIngredient": "Petit pois",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Petit pois"
+    ]
+  },
+  "7255": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Haricot",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Haricot",
+      "Inspiration italienne"
+    ]
+  },
+  "7268": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "7306": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu",
+      "Inspiration japonaise"
+    ]
+  },
+  "7372": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poisson",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poisson"
+    ]
+  },
+  "7463": {
+    "category": "Veloutés",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "7495": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon"
+    ]
+  },
+  "7499": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Miso",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Miso",
+      "Inspiration japonaise"
+    ]
+  },
+  "7500": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "7521": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Moule",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Moule"
+    ]
+  },
+  "7540": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "7564": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration chinoise"
+    ]
+  },
+  "7656": {
+    "category": "Soupes froides",
+    "mainIngredient": "Concombre",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Concombre",
+      "Froid"
+    ]
+  },
+  "7667": {
+    "category": "Veloutés",
+    "mainIngredient": "Champignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Champignon"
+    ]
+  },
+  "7687": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Palourde",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Palourde"
+    ]
+  },
+  "7698": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "7703": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "7734": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes"
+    ]
+  },
+  "7757": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc"
+    ]
+  },
+  "7793": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "7832": {
+    "category": "Veloutés",
+    "mainIngredient": "Maïs",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Maïs"
+    ]
+  },
+  "7833": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "7860": {
+    "category": "Veloutés",
+    "mainIngredient": "Oignon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Oignon"
+    ]
+  },
+  "7912": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "7932": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé"
+    ]
+  },
+  "7943": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc"
+    ]
+  },
+  "7950": {
+    "category": "Veloutés",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé"
+    ]
+  },
+  "8025": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "8068": {
+    "category": "Veloutés",
+    "mainIngredient": "Fenouil",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fenouil"
+    ]
+  },
+  "8069": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "8070": {
+    "category": "Veloutés",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "8110": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "8118": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Crevette",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crevette"
+    ]
+  },
+  "8128": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Dindon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Dindon"
+    ]
+  },
+  "8172": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Miso",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Miso",
+      "Inspiration japonaise"
+    ]
+  },
+  "8179": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge",
+      "Inspiration italienne"
+    ]
+  },
+  "8188": {
+    "category": "Veloutés",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "8231": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "8236": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu",
+      "Inspiration japonaise"
+    ]
+  },
+  "8244": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Boulgour",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Boulgour"
+    ]
+  },
+  "8256": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes",
+      "Mijoteuse"
+    ]
+  },
+  "8257": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "8268": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "8322": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Chou",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou",
+      "Autocuiseur"
+    ]
+  },
+  "8327": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu",
+      "Autocuiseur"
+    ]
+  },
+  "8333": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille",
+      "Autocuiseur"
+    ]
+  },
+  "8336": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf",
+      "Autocuiseur",
+      "Inspiration vietnamienne"
+    ]
+  },
+  "8339": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé",
+      "Autocuiseur"
+    ]
+  },
+  "8347": {
+    "category": "Veloutés",
+    "mainIngredient": "Asperge",
+    "seasons": [
+      "Printemps"
+    ],
+    "tags": [
+      "Ricardo",
+      "Asperge"
+    ]
+  },
+  "8349": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Inspiration italienne"
+    ]
+  },
+  "8428": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "8449": {
+    "category": "Soupes froides",
+    "mainIngredient": "Laitue",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Laitue",
+      "Froid"
+    ]
+  },
+  "8466": {
+    "category": "Veloutés",
+    "mainIngredient": "Poireau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poireau"
+    ]
+  },
+  "8481": {
+    "category": "Soupes froides",
+    "mainIngredient": "Ail",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Ail",
+      "Froid"
+    ]
+  },
+  "8502": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Lait de coco",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lait de coco",
+      "Inspiration thaïlandaise"
+    ]
+  },
+  "8517": {
+    "category": "Soupes froides",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate",
+      "Froid"
+    ]
+  },
+  "8565": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "8615": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "8631": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Orge",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Orge"
+    ]
+  },
+  "8663": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Lait de coco",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lait de coco",
+      "Inspiration japonaise"
+    ]
+  },
+  "8701": {
+    "category": "Veloutés",
+    "mainIngredient": "Laitue",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Laitue"
+    ]
+  },
+  "8715": {
+    "category": "Veloutés",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "8721": {
+    "category": "Veloutés",
+    "mainIngredient": "Maïs",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Maïs"
+    ]
+  },
+  "8760": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poisson",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poisson"
+    ]
+  },
+  "8799": {
+    "category": "Veloutés",
+    "mainIngredient": "Homard",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Homard"
+    ]
+  },
+  "8901": {
+    "category": "Veloutés",
+    "mainIngredient": "Pain",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pain"
+    ]
+  },
+  "8925": {
+    "category": "Veloutés",
+    "mainIngredient": "Pomme de terre",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pomme de terre"
+    ]
+  },
+  "8936": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri"
+    ]
+  },
+  "8973": {
+    "category": "Veloutés",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "8981": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes"
+    ]
+  },
+  "9007": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Agneau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Agneau"
+    ]
+  },
+  "9018": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf",
+      "Inspiration vietnamienne"
+    ]
+  },
+  "9019": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf",
+      "Mijoteuse",
+      "Inspiration vietnamienne"
+    ]
+  },
+  "9111": {
+    "category": "Soupes froides",
+    "mainIngredient": "Avocat",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Avocat",
+      "Froid"
+    ]
+  },
+  "9147": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Bœuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bœuf",
+      "Inspiration japonaise"
+    ]
+  },
+  "9157": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Courgette",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courgette"
+    ]
+  },
+  "9169": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Palourde",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Palourde"
+    ]
+  },
+  "9192": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Œuf",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Œuf",
+      "Inspiration italienne"
+    ]
+  },
+  "9209": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes"
+    ]
+  },
+  "9264": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "9305": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "9333": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "9349": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "9404": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Saucisse",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Saucisse"
+    ]
+  },
+  "9405": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu"
+    ]
+  },
+  "9449": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration italienne"
+    ]
+  },
+  "9539": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc",
+      "Inspiration japonaise"
+    ]
+  },
+  "9542": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet",
+      "Autocuiseur",
+      "Inspiration thaïlandaise"
+    ]
+  },
+  "9543": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Légumes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Légumes",
+      "Autocuiseur"
+    ]
+  },
+  "9558": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Fines herbes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fines herbes"
+    ]
+  },
+  "9564": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Courge spaghetti",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge spaghetti"
+    ]
+  },
+  "9649": {
+    "category": "Veloutés",
+    "mainIngredient": "Poireau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poireau"
+    ]
+  },
+  "9656": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Céleri",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Céleri",
+      "Inspiration italienne"
+    ]
+  },
+  "9681": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  },
+  "9717": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu"
+    ]
+  },
+  "9721": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "9745": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "9755": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Bouillon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Bouillon",
+      "Inspiration italienne"
+    ]
+  },
+  "9756": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Pâtes",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pâtes",
+      "Inspiration italienne"
+    ]
+  },
+  "9842": {
+    "category": "Soupes froides",
+    "mainIngredient": "Pois chiche",
+    "seasons": [
+      "Été"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois chiche",
+      "Froid"
+    ]
+  },
+  "9968": {
+    "category": "Veloutés",
+    "mainIngredient": "Panais",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Panais"
+    ]
+  },
+  "9970": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé"
+    ]
+  },
+  "10066": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "10087": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Riz",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Riz"
+    ]
+  },
+  "10149": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Fromage",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Fromage"
+    ]
+  },
+  "10189": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Crevette",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crevette",
+      "Inspiration chinoise"
+    ]
+  },
+  "10250": {
+    "category": "Veloutés",
+    "mainIngredient": "Pois chiche",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois chiche"
+    ]
+  },
+  "10301": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Saumon",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Saumon"
+    ]
+  },
+  "10350": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Saucisse",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Saucisse"
+    ]
+  },
+  "10389": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte",
+      "Inspiration italienne"
+    ]
+  },
+  "10422": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "10432": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Tofu",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tofu"
+    ]
+  },
+  "10436": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "10448": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "10467": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Lentille",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Lentille"
+    ]
+  },
+  "10520": {
+    "category": "Veloutés",
+    "mainIngredient": "Tomate",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Tomate"
+    ]
+  },
+  "10578": {
+    "category": "Soupes traditionnelles",
+    "mainIngredient": "Ail",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Ail"
+    ]
+  },
+  "10581": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Courge spaghetti",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge spaghetti"
+    ]
+  },
+  "10647": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "10876": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "11054": {
+    "category": "Veloutés",
+    "mainIngredient": "Courge",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Courge"
+    ]
+  },
+  "11165": {
+    "category": "Veloutés",
+    "mainIngredient": "Carotte",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Carotte"
+    ]
+  },
+  "11315": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Crevette",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Crevette",
+      "Inspiration thaïlandaise"
+    ]
+  },
+  "11329": {
+    "category": "Veloutés",
+    "mainIngredient": "Poivron",
+    "seasons": [
+      "Été",
+      "Automne"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poivron",
+      "Air fryer"
+    ]
+  },
+  "11356": {
+    "category": "Veloutés",
+    "mainIngredient": "Chou-fleur",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Chou-fleur"
+    ]
+  },
+  "11367": {
+    "category": "Soupes du monde",
+    "mainIngredient": "Porc",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Porc",
+      "Inspiration chinoise"
+    ]
+  },
+  "11368": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Veau",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Veau"
+    ]
+  },
+  "11369": {
+    "category": "Veloutés",
+    "mainIngredient": "Pois cassé",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Pois cassé"
+    ]
+  },
+  "11370": {
+    "category": "Soupes-repas",
+    "mainIngredient": "Poulet",
+    "seasons": [
+      "Printemps",
+      "Été",
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Poulet"
+    ]
+  },
+  "11399": {
+    "category": "Veloutés",
+    "mainIngredient": "Panais",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Panais"
+    ]
+  },
+  "11410": {
+    "category": "Veloutés",
+    "mainIngredient": "Patate douce",
+    "seasons": [
+      "Automne",
+      "Hiver"
+    ],
+    "tags": [
+      "Ricardo",
+      "Patate douce"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+import {ingredient} from './parse-ingredients.mjs';
+import {readFileSync,writeFileSync,existsSync,copyFileSync,mkdirSync} from 'node:fs';
+const read=p=>JSON.parse(readFileSync(p,'utf8').replace(/^\uFEFF/,''));
+if(!existsSync('src/data/pilot-recipes.json'))copyFileSync('src/data/recipes.json','src/data/pilot-recipes.json');
+const native=read('src/data/pilot-recipes.json');
+const expansion=['a','b','c'].flatMap(id=>existsSync(`src/data/expansion-${id}.json`)?read(`src/data/expansion-${id}.json`):[]);
+const catalog=read('.cache/ricardo-catalog.json'),extracted=read('.cache/ricardo-extracted-all.json'),classes=read('src/data/ricardo-categories.json');
+const detailed=new Map(read('src/data/ricardo.json').map(r=>[r.sourceRecipeId,r])),facts=new Map(extracted.rows.map(r=>[r.id,r]));
+const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const minute=s=>{const m=String(s||'').match(/PT(?:(\d+)H)?(?:(\d+)M)?/);return m?Number(m[1]||0)*60+Number(m[2]||0):0};
+function allergens(ingredients){const s=norm(ingredients.map(i=>i.name+' '+i.note).join(' '));return [
+ [/\b(lait|creme|beurre|fromage|yogourt|yogurt|cheddar|parmesan|halloumi)\b/,'Lait'],[/\b(oeuf|oeufs|œuf|œufs)\b/,'Œuf'],[/\b(ble|farine|panko|pain|orge|boulgour|semoule|couscous)\b/,'Céréales contenant du gluten'],[/\bceleri\b/,'Céleri'],[/\b(poisson|saumon|morue|bonite|aiglefin|tilapia|thon|anchois)\b/,'Poisson'],[/\b(crevette|crevettes|crabe|homard)\b/,'Crustacés'],[/\b(palourde|palourdes|moule|moules|petoncle|petoncles|calmar)\b/,'Mollusques'],[/\b(soja|soya|tofu|miso)\b/,'Soja'],[/\b(arachide|arachides|cacahuete)\b/,'Arachides'],[/\b(amande|amandes|noisette|noix de grenoble|noix de cajou|pistache)\b/,'Fruits à coque'],[/\bsesame\b/,'Sésame'],[/\bmoutarde\b/,'Moutarde']].filter(([re])=>re.test(s)).map(([,name])=>name)}
+const ricardo=catalog.rows.map(item=>{
+ const f=facts.get(item.id),c=classes[item.id];if(!f||!c)throw Error('Fiche ou classement absent '+item.id);
+ const url=f.url,ingredients=(f.ingredientGroups||[]).flatMap(g=>g.ingredients.map(i=>ingredient(i,g.description)));
+ const yieldText=f.schema?.recipeYield||'',servings=/portion|personne/i.test(yieldText)?Number(yieldText.match(/\d+/)?.[0]||1):1;
+ const base=detailed.get(item.id),prep=minute(f.schema?.prepTime)||item.times?.preparation||0,cook=minute(f.schema?.cookTime)||item.times?.cooking||0,allTime=minute(f.schema?.totalTime)||item.times?.total||prep+cook;
+ const r=base?{...base,ingredients:f.externalOnly?[]:ingredients}:{id:'ricardo-'+item.id,title:item.title,originalName:item.title,country:'Canada',region:'Québec · publication Ricardo',category:c.category,description:`Une recette Ricardo à explorer autour de ${c.mainIngredient.toLocaleLowerCase('fr')}.`,history:'Cette recette est publiée par Ricardo au Québec. Le pays indique ici la provenance éditoriale de la fiche, sans attribuer une origine québécoise à ses inspirations culinaires.',portions:servings,prep,cook,rest:Math.max(0,allTime-prep-cook),difficulty:'Non renseignée',seasons:c.seasons,diet:[],mainIngredient:c.mainIngredient,tags:c.tags,ingredients,steps:[],tips:[],variants:[],allergens:f.externalOnly?[]:allergens(ingredients),dietaryNote:'Repérage des allergènes d’après les ingrédients consultables ; vérifier les étiquettes des produits composés et la fiche source. Aucun régime spécifique n’est garanti.',sources:[{title:'RICARDO — '+item.title,url,scope:f.externalOnly?'Titre et durées consultables ; préparation réservée aux abonnés.':'Référence consultée : titre, ingrédients, rendement et durées. La préparation complète est disponible sur le site source.'}],verified:'2026-11-13',status:'Référence documentée',limits:['Les instructions complètes sont à consulter chez Ricardo ; aucune préparation n’a été inventée.'],photo:{file:'images/placeholder.svg',author:'La Soupothèque',source:'',license:'Visuel original',licenseUrl:'',alt:'Visuel de collection',changes:''},provider:'RICARDO',sourceRecipeId:item.id,sourceRecipeUrl:url};
+ r.preparationExternal=!r.steps.length;r.externalOnly=f.externalOnly;r.access=f.externalOnly?'restricted':'public';r.sourceYield=yieldText;r.portionUnit=/portion|personne/i.test(yieldText)?'personnes':'recette';r.portions=servings;
+ r.category=base?.category||c.category;r.mainIngredient=base?.mainIngredient||c.mainIngredient;r.seasons=base?.seasons||c.seasons;r.tags=[...new Set([...r.tags,...c.tags])];
+ if(r.preparationExternal){r.status=f.externalOnly?'Découverte — accès abonné chez Ricardo':'Ingrédients disponibles — préparation chez Ricardo';r.diet=[];if(f.externalOnly)r.dietaryNote='Ingrédients et préparation réservés aux abonnés : allergènes et régimes non vérifiés.'}
+ return r;
+});
+function family(r){const t=norm(r.title+' '+r.mainIngredient);
+ if(/\bpho\b|tonkinoise/.test(t))return 'collection-pho';if(/tom kha/.test(t))return 'collection-tom-kha';if(/harira/.test(t))return 'collection-harira';if(/kimchi/.test(t))return 'collection-kimchi';
+ if(/saltibarsciai|šaltibarščiai/.test(t))return 'collection-saltibarsciai';if(/ajoblanco|ajo blanco/.test(t))return 'collection-ajoblanco';if(/melon/.test(t))return 'collection-melon';if(/laksa/.test(t))return 'collection-laksa';if(/won[ -]?ton/.test(t))return 'collection-wonton';
+ if(/betterave|bortsch|saltibarsciai/.test(t))return 'collection-betterave';if(/mais/.test(t))return 'collection-mais';
+ if(/miso/.test(t))return 'soupe-miso';if(/oignon.*gratin|gratin.*oignon/.test(t))return 'soupe-oignon';if(/ribollita/.test(t))return 'ribollita';if(/gaspacho|gazpacho|salmorejo|tomate.*pasteque/.test(t))return 'gaspacho-andalou';
+ if(/ramen|pho|wonton|won-ton/.test(t))return 'collection-ramen';if(/concombre|tarator/.test(t))return 'collection-froid-vert';if(/champignon/.test(t))return 'collection-champignon';if(/carotte/.test(t)&&r.category==='Veloutés')return 'collection-carotte';
+ if(/courgette/.test(t))return 'collection-courgette';if(/brocoli|petits pois|cresson|epinard/.test(t)&&r.category==='Veloutés')return 'collection-brocoli';if(/potimarron|courge|potiron|citrouille|patate douce/.test(t)&&r.category==='Veloutés')return 'veloute-potimarron';
+ if(/tomate|poivron/.test(t)&&r.category==='Veloutés')return 'collection-tomate';if(/poisson|saumon|morue|bouillabaisse|crevette|homard|palourde|moule|chaudree/.test(t))return 'collection-poisson';
+ if(/lentille|dal|dahl|harira|mercimek/.test(t))return 'collection-lentilles';if(/pois cass|soupe aux pois/.test(t))return 'collection-pois';if(/poulet|dinde|nouille|volaille/.test(t))return 'collection-poulet';if(r.category==='Soupes froides')return 'collection-froid-vert';
+ if(r.category==='Veloutés')return 'collection-veloute-clair';return 'collection-legumes';
+}
+const all=[...native,...expansion,...ricardo];for(const r of all){const id=family(r);r.photo={file:`images/${id}-editorial.webp`,author:'La Soupothèque · ImageGen',source:'',license:'Illustration originale générée pour ce projet',licenseUrl:'',alt:`Illustration culinaire photoréaliste générée : ${r.title}.`,changes:'Création par IA, conversion WebP et recadrage responsive.',kind:'generated',family:id,note:native.some(n=>n.id===r.id)?'Illustration photoréaliste générée pour cette recette ; ce n’est pas une photographie du plat cuisiné.':'Illustration de collection générée par IA ; la composition et les garnitures peuvent différer de la recette.'};if(!r.provider)r.provider='La Soupothèque';r.tags=[...new Set([...(r.tags||[]),r.mainIngredient,r.country])];r.limits=(r.limits||[]).filter(x=>!/photograph|visuel de remplacement/i.test(x));if(r.provider!=='RICARDO')r.status=r.steps.length?'Fiche documentée — non testée en cuisine':r.status}
+if(new Set(all.map(r=>r.id)).size!==all.length)throw Error('Identifiants en doublon');
+writeFileSync('src/data/recipes.json',JSON.stringify(all,null,2)+'\n');
+mkdirSync('public/data',{recursive:true});writeFileSync('public/data/recipes.json',JSON.stringify(all)+'\n');
+const report={verified:'2026-11-13',total:all.length,native:all.filter(r=>r.provider!=='RICARDO').length,ricardo:ricardo.length,ricardoWithLocalPreparation:ricardo.filter(r=>!r.preparationExternal).length,ricardoWithPublicIngredients:ricardo.filter(r=>!r.externalOnly).length,restricted:ricardo.filter(r=>r.externalOnly).length,categories:Object.fromEntries([...new Set(all.map(r=>r.category))].map(c=>[c,{total:all.filter(r=>r.category===c).length,ricardo:ricardo.filter(r=>r.category===c).length}])),pages:catalog.pages};
+writeFileSync('docs/import-report.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify(report,null,2));
+
+
+
