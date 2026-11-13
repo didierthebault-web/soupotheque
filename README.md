@@ -2,6 +2,12 @@
 
 Un monde de soupes à découvrir et à cuisiner.
 
+**Site public :** https://didierthebault-web.github.io/soupotheque/
+
+**Dépôt :** https://github.com/didierthebault-web/soupotheque
+
+Publication GitHub Pages et parcours du site public vérifiés le 13 novembre 2026. Les trois tests fonctionnels passent aussi contre cette adresse publique.
+
 Application française en React, TypeScript et Vite. Le carnet conserve ses données et illustrations localement. Les favoris et la liste de courses restent dans le navigateur, sans compte.
 
 ## Corpus et transparence
@@ -67,4 +73,3 @@ Voir `docs/maintenance.md`. Ne pas modifier directement la copie compacte de `pu
 Le chemin Vite `/soupotheque/` et le routage par fragment sont compatibles avec GitHub Pages. Le workflow de publication se déclenche manuellement. Aucun dépôt public ni déploiement n’est créé automatiquement par l’import ou les tests.
 
 Le site ne revendique aucune conformité RGAA complète. Les contrôles réalisés et leurs limites sont décrits dans `docs/rapport-tests.md`.
-

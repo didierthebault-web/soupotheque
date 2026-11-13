@@ -12,4 +12,3 @@ export function ingredient(i,group=''){
  const notes=metric?(prep.match(/,(.*)$/)?.[1]||''):(['boîte','bloc','sac','bouteille'].includes(unit)?prep:prep.match(/,(.*)$/)?.[1]||'');
  return {name,quantity,unit,note:[group,notes].filter(Boolean).join(' · ')};
 }
-

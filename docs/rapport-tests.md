@@ -24,4 +24,10 @@ Les illustrations sont générées et certaines sont réutilisées pour plusieur
 
 Les parcours automatisés et le contrôle visuel ne constituent pas un audit RGAA/WCAG, un test avec lecteur d’écran ou une validation sur tous les navigateurs et appareils.
 
-Le workflow GitHub Pages est préparé mais n’a pas été exécuté dans un dépôt distant. Aucune publication publique n’est revendiquée.
+Le workflow GitHub Pages a été exécuté avec succès dans le dépôt public `didierthebault-web/soupotheque` le 13 novembre 2026 : installation, validation des données, onze tests unitaires, compilation et déploiement réussis.
+
+Site effectivement vérifié : https://didierthebault-web.github.io/soupotheque/
+
+Les trois parcours Playwright ont ensuite été exécutés contre cette adresse publique : catalogue et pagination des 389 références, filtres, portions, favoris, courses persistantes, sources, routes directes, chargement des 29 illustrations, navigation clavier et affichage mobile. Les trois parcours sont passés.
+
+Exécution de publication : https://github.com/didierthebault-web/soupotheque/actions/runs/43484549860

@@ -25,5 +25,3 @@ Les prompts complets des premières familles et les chemins des créations sont 
 Les créations sont converties en WebP de 1 400 pixels de largeur. Le recadrage responsive conserve le bol au centre. Elles ne constituent pas la preuve d’un plat réellement préparé ou d’une recette testée. Les visuels de collection sont réutilisés et signalés : une illustration ne certifie pas la composition d’une fiche. Aucune image générée n’est attribuée à Ricardo ou à un photographe.
 
 Les cinq photographies initiales inutilisées sont archivées dans docs/archived-photos, avec leurs notices de licence dans docs/photo-metadata. Elles ne font plus partie des fichiers publics distribués avec le site.
-
-

@@ -38,6 +38,3 @@ writeFileSync('src/data/recipes.json',JSON.stringify(all,null,2)+'\n');
 mkdirSync('public/data',{recursive:true});writeFileSync('public/data/recipes.json',JSON.stringify(all)+'\n');
 const report={verified:'2026-11-13',total:all.length,native:all.filter(r=>r.provider!=='RICARDO').length,ricardo:ricardo.length,ricardoWithLocalPreparation:ricardo.filter(r=>!r.preparationExternal).length,ricardoWithPublicIngredients:ricardo.filter(r=>!r.externalOnly).length,restricted:ricardo.filter(r=>r.externalOnly).length,categories:Object.fromEntries([...new Set(all.map(r=>r.category))].map(c=>[c,{total:all.filter(r=>r.category===c).length,ricardo:ricardo.filter(r=>r.category===c).length}])),pages:catalog.pages};
 writeFileSync('docs/import-report.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify(report,null,2));
-
-
-
